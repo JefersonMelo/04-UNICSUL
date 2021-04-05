@@ -1,8 +1,9 @@
 # PLANO DE ACOMPANHAMENTO DE CARREIRA EM SISTEMAS DE INFORMAÇÃO
 
 >Pergunta 1
-    0,4 em 0,4 pontos
-    De acordo com o ranking de empreendedorismo corporativo de 2006, o fator mais apontado pelos colaboradores como motivador da inovação é:
+
+0,4 em 0,4 pontos
+De acordo com o ranking de empreendedorismo corporativo de 2006, o fator mais apontado pelos colaboradores como motivador da inovação é:
 
 >Pergunta 2
 0,4 em 0,4 pontos
