@@ -2,7 +2,7 @@
 
 >Pergunta 1
 
-0,4 em 0,4 pontos
+- 0,4 em 0,4 pontos
 De acordo com o ranking de empreendedorismo corporativo de 2006, o fator mais apontado pelos colaboradores como motivador da inovação é:
 
 >Pergunta 2
