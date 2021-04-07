@@ -1,8 +1,10 @@
-# [Sistemas de Informação 5º Semestre](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre)
+# Sistemas de Informação
 
-## [ACOMPANHAMENTO DE CARREIRA EM SISTEMAS DE INFORMAÇÃO](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/01-Acompanhamento-de-Carreira)
+## [5º Semestre](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre)
 
-## [PROJETO INTEGRADOR DE SISTEMAS DE INFORMAÇÃO](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/02-Projeto-Integrador)
+## [ACOMPANHAMENTO DE CARREIRA](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/01-Acompanhamento-de-Carreira)
+
+## [PROJETO INTEGRADOR](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/02-Projeto-Integrador)
 
 >- [Atividade I](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/02-Projeto-Integrador/Atividades/01-Atividade.md)
 >- [Atividade II](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/02-Projeto-Integrador/Atividades/02-Atividade.md)
