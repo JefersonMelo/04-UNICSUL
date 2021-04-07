@@ -10,4 +10,6 @@
     >- [Atividade II](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/02-Projeto-Integrador/Atividades/02-Atividade.md)
     >- [Atividade III](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/02-Projeto-Integrador/Atividades/03-Atividade.md)
     >- [Atividade IV](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/02-Projeto-Integrador/Atividades/04-Atividade.md)
+
+- ### [COMPUTAÇÃO EM NUVEM](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/03-Computacao-em-nuvem)
   
