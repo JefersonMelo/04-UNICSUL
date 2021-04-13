@@ -28,4 +28,4 @@ Ele passou algumas informações:
 
 R: 184.549.376 / 11.340 = 16.274,195 → 16.275 bps  
 
-**A Taxa Mínima Deve ser de: 16.275 bps**
+** A Taxa Mínima Deve ser de: 16.275 bps **
