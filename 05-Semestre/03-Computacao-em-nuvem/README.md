@@ -14,3 +14,38 @@ A nuvem é atualmente um símbolo da internet, e que disponibiliza uma grande ca
 >- [Como criar uma máquina virtual - Parte 1](https://www.youtube.com/watch?v=xzOmCxZSQWw)
 >- [Como criar uma máquina virtual - Parte 2](https://www.youtube.com/watch?v=vxzA77s3jlA)
 >- [Infraestrutura de Tecnologia da Informação](https://www.youtube.com/watch?v=aB-JRipW4wY)
+
+### Respostas das Ativdades
+
+#### Atividade 1
+
+- Pergunta 1
+Uma grande inovação trazida pela constante evolução da computação é a Computação em Nuvem ou Cloud Computing. Essa tendência vem se popularizando porque uma de suas características é o fato de o usuário:  
+
+```"
+Poder acessar as aplicações independente do seu Sistema Operacional ou do equipamento usado.
+```
+
+- Pergunta 2
+Em relação à computação em nuvem, organização e gerenciamento, embora seja uma tecnologia que prometa resolver vários problemas relacionados à prestação de serviços de Tecnologia da Informação e ao armazenamento de dados, a computação em nuvem, atualmente, não suporta o processamento de um grande volume de dados Assinale a alternativa CORRETA:  
+
+```"
+Falso – A Computação em Nuvem suporta grande volume de dados.
+```
+
+- Pergunta 3
+Em se tratando de Computação na Nuvem (Cloud Computing), quando se usa um software em regime de utilização web (como, por exemplo, o software Google Docs), ele é classificado como sendo do tipo:  
+
+```"
+Software como Serviço.
+```
+
+- Pergunta 4
+A Computação em Nuvem fornece alguns serviços de computação pela Internet como, por exemplo, armazenamento, processamento de dados, Rede e análise de dados, entre outros. As Empresas fornecedoras desses serviços computacionais em nuvem, em sua maioria, oferecem essas funcionalidades e cobram por sua utilização. Assinale a alternativa que indica duas provedoras globais de serviços de Nuvem pública (Cloud Computing):  
+
+```"
+Microsoft e Amazon.
+```
+
+#### Atividade 2
+
