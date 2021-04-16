@@ -10,6 +10,7 @@ Em conformidade com o exposto e com o objetivo de utilizar e evoluir em relaçã
 Logo abaixo, serão passadas uma série de leituras de reforço, que necessitarão de sua atenção e dedicação para recordar e se preparar para os desafios dispostos em nossa trilha de aprendizagem.  
 Também é sempre bom lembrar que a língua mundialmente falada em tecnologia da informação é inglês, portanto, é importante você estar estudando esse idioma para evoluir profissionalmente nesse mercado.  
 Claro, você pode utilizar o tradutor da Google, mas é importante praticar e dominar o idioma.  
+
 >- Um dos grandes desafios de quem aprende redes de computadores é conhecer mais profundamente o protocolo e as camadas do OSI e o TCP-IP,
    A CISCO possui um material de referência para o TCP-IP que estou compartilhando com vocês e que vale o investimento na leitura.
 CISCO. Visão geral do [TCP/IP.](https://www.cisco.com/c/pt_br/support/docs/ip/routing-information-protocol-rip/13769-5.pdf)
@@ -20,6 +21,7 @@ CISCO. Visão geral do [TCP/IP.](https://www.cisco.com/c/pt_br/support/docs/ip/r
  Outra coisa importante atualmente é conhecer plataformas em nuvem, principalmente porque o processo de digitalização das empresas emprega fortemente tecnologias em nuvem para atingirem seus objetivos.  
 A computação em nuvem é o fornecimento de serviços de computação, incluindo servidores, armazenamento, bancos de dados, rede, software, análise e inteligência, pela Internet (“a nuvem”) para oferecer inovações mais rápidas, recursos flexíveis e economias de escala. Você normalmente paga apenas pelos serviços de nuvem que usa, ajudando a reduzir os custos operacionais, a executar sua infraestrutura com mais eficiência e a escalonar conforme as necessidades da sua empresa mudam.  
 Tem um vídeo ótimo para você reciclar Computação em Nuvem.  
+
 >- ***DOSON TREINAMENTOS.*** [O que é Cloud Computing – Computação em Nuvem. 2017.](https://www.youtube.com/watch?v=LG7AVqWR4rk)  
  Saber configurar uma nuvem e colocar os softwares necessários como banco de dados, analisadores de dados e outros gera valor a empresa.
 Explore esses recursos para reciclar computação em nuvem:  
@@ -33,6 +35,7 @@ Com essas informações, uma empresa pode analisar como determinadas ações afe
 Sem um sistema de informação, uma empresa pode gastar muito tempo e energia no processo de tomada de decisão. No entanto, com o uso de SI, é mais fácil entregar todas as informações necessárias e modelar os resultados e isso pode ajudá-lo a tomar melhores decisões. A equipe de gestão pode usar o sistema de informação para escolher o melhor curso de ação e realizar as tarefas. Quando há várias alternativas atraentes, o sistema de informação pode ser usado para executar diferentes cenários, calculando indicadores-chave como custos, vendas e lucros. Dessa forma, você pode determinar a alternativa com os resultados mais benéficos.  
 Empregadores e funcionários podem se comunicar de maneira mais rápida e eficaz com um sistema de informação. Embora os e-mails sejam rápidos e eficazes, o uso de Sistemas de Informação é mais eficiente, pois os documentos são armazenados em pastas que podem ser compartilhadas e acessadas pelos funcionários.  
 Isso implica que as informações fluem da gerência para os funcionários de nível inferior e vice-versa. Além disso, os funcionários de nível inferior são esclarecidos e envolvidos em importantes tomadas de decisão, o que elimina a necessidade de gerentes intermediários. Os funcionários que estão diretamente envolvidos no processo de tomada de decisão são motivados e dedicados às suas tarefas.  
+
 >- QDÚVIDA. [O que é um Sistema de Informação?](https://www.youtube.com/watch?v=xh_UuLP2ya8 )
 
 ## Material Complementar l
