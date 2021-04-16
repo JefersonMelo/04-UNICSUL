@@ -27,4 +27,4 @@ O Canal de Comunicação fará a entrega em 00:20:48
 ```
 
 Se o pitaco caminha 15 km/h, para sair com a vitória ele deve percorrer 1/3 de hora o que equivale à 20 min e como 15 km / 3 é igual a 5 km, o canino sairá vitorioso se a distância for igual ou inferior à 5 km.  
->***Portanto, em uma distância de até 5 km o pitaco será o campeão e poderá sair para comemorar.*** :dog: :dancer: :party:
+>***Portanto, em uma distância de até 5 km o pitaco será o campeão e poderá sair para comemorar.*** :dog: :dancer:
