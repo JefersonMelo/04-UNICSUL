@@ -6,3 +6,5 @@ Seu chefe começou a narrativa:
 Temos que configurar o ambiente todo desse cliente em nuvem segura, etc., etc., etc., e precisamos colocar as vantagens de se ter esse ambiente em nuvem para que eles enviem aos acionistas deles e aos clientes europeus.”
 Por fim, ele disse:
 Crie uma síntese contendo as vantagens de se colocar uma aplicação em nuvem e me envie para que eu possa dar uma lida e enviar aos nossos clientes, ainda hoje ok. Ah, e não passe de seu horário das 18h.
+
+## Solução
