@@ -77,3 +77,33 @@ A Computação em Nuvem, por ser um conjunto de recursos com capacidade de proce
 ```"
 Falso: a Computação em Nuvem veio para complementar os serviços da Internet.
 ```
+
+#### Atividade 3
+
+- Pergunta 1  
+Na escolha da seleção do provedor, a qual critério se refere a seguinte frase: “Esse custo pode ser calculado se a Licença de software está vinculada ao preço por Processador ou Dispositivo”. Identifique a alternativa correta e a marque.  
+
+```"
+Custo de manutenção de software de pacote.
+```
+
+- Pergunta 2  
+Ao pensar em Nuvem é necessário definir todos os custos envolvidos, seja em operação, seja em armazenamento, máquina e rede de comunicação. Abaixo há alguns termos que entram no cálculo dos custos de um ambiente em nuvem. Identifique e marque a alternativa que NÃO contém um desses componente, assinalando-a.
+
+```"
+Custos de manutenção de workstations próprias.
+```
+
+- Pergunta 3  
+Na escolha da seleção do provedor, a qual critério se refere a seguinte frase: “Os custos inerentes a essa questão não podem ser reduzidos pela remoção de equipamentos”. Identifique a alternativa correta e a marque.
+
+```"
+Custo de Infraestrutura.
+```
+
+- Pergunta 4  
+Estão listadas a seguir, as etapas do Modelo de Cálculo de Custos. Todavia, uma delas não pertence a essas etapas. Identifique e assinale essa alternativa errada.
+
+```"
+Considerar os fatores comerciais da Organização.
+```
