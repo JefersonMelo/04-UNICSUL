@@ -10,12 +10,3 @@ Você deu uma leve engasgada e respondeu.
 Descreva sua resposta justificando logo abaixo:  
 
 ## Solução
-
-As vantagens de ter a aplicação em nuvem são de poder acessar os dados em
-qualquer lugar e com isso realizar ajustes e correções rapidamente, principalmente
-no cenário de mudanças na legislação relacionada aos dados pois cada país tem a
-sua e manter servidores para cada país sairá mais caro e trabalhoso, redução dos
-custos com TI, facilita e agiliza o escalonamento do poder de processamento,
-principalmente em momentos promocionais que por sua vez, aumentam
-consideravelmente o tráfego de acesso na plataforma, assim não desperdiçando
-poder computacional.

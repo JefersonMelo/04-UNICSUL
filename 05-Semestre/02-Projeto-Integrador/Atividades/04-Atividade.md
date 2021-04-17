@@ -8,3 +8,12 @@ Por fim, ele disse:
 Crie uma síntese contendo as vantagens de se colocar uma aplicação em nuvem e me envie para que eu possa dar uma lida e enviar aos nossos clientes, ainda hoje ok. Ah, e não passe de seu horário das 18h.
 
 ## Solução
+
+As vantagens de ter a aplicação em nuvem são de poder acessar os dados em
+qualquer lugar e com isso realizar ajustes e correções rapidamente, principalmente
+no cenário de mudanças na legislação relacionada aos dados pois cada país tem a
+sua e manter servidores para cada país sairá mais caro e trabalhoso, redução dos
+custos com TI, facilita e agiliza o escalonamento do poder de processamento,
+principalmente em momentos promocionais que por sua vez, aumentam
+consideravelmente o tráfego de acesso na plataforma, assim não desperdiçando
+poder computacional.
