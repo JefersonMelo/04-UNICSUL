@@ -161,3 +161,35 @@ Sabemos que o e-mail é um aplicativo que pode rodar sob computação em nuvem. 
 ```"
 Aplicativo massivamente dimensionado.
 ```
+
+#### Atividade 6
+
+- Pergunta 1  
+O uso de IDS permite:
+
+Avaliar os recursos computacionais.
+
+```"
+Detectar e prevenir comportamentos estranhos na rede.
+```
+
+- Pergunta 2  
+Qual tecnologia se torna mais eficiente em relação a acessos não autorizados a equipamentos?
+
+```"
+Acesso por VPN e Criptografia.
+```
+
+- Pergunta 3  
+Qual a alternativa correta em relação ao gerenciamento de identidade?
+
+```"
+O principal objetivo da gestão de identidade é gerenciar informações.
+```
+
+- Pergunta 4  
+Dentre os itens abaixo, qual não pertence à segurança da informação em projetos de nuvem?
+
+```"
+A preocupação da cultura da organização.
+```
