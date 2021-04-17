@@ -107,3 +107,26 @@ Estão listadas a seguir, as etapas do Modelo de Cálculo de Custos. Todavia, um
 ```"
 Considerar os fatores comerciais da Organização.
 ```
+
+#### Atividade 4
+
+- Pergunta 1  
+Qual dos itens abaixo representa um risco para computação em nuvem?
+
+```"
+Uso indevido de recursos.
+```
+
+- Pergunta 2  
+De que forma TI e o Negócio podem estabelecer uma relação que permita à organização atingir seus benefícios de negócios?
+
+```"
+Estabelecer uma relação da tecnologia com o negócio.
+```
+  
+- Pergunta 3  
+Dos benefícios abaixo, qual não corresponde à virtualização de desktop?
+
+```"
+Link de Comunicação
+```
