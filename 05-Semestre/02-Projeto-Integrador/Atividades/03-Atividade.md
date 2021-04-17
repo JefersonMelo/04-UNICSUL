@@ -10,3 +10,11 @@ Você deu uma leve engasgada e respondeu.
 Descreva sua resposta justificando logo abaixo:  
 
 ## Solução
+
+Claro Big Bos, pode deixar, vamos acabar com essa confusão que está ficando feio! 
+Para a demanda do cliente que são ferramentas para apoiar processos, operações,
+inteligência, TI, mover dados, gerenciar informações e possuir bons relatórios para
+que os gerentes possam ler. A alternativa mais viável seria o SIG, pois esse sistema
+abrange até os gerentes e usa dados do SPT, que é o desejo do cliente, com isso
+fornecendo respostas a perguntas de rotina, relatórios sobre o desempenho atual de
+forma mais simplificada para o nível requerido.
