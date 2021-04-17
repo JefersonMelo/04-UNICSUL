@@ -131,3 +131,33 @@ Dos benefícios abaixo, qual não corresponde à virtualização de desktop?
 Link de Comunicação
 ```
 
+#### Atividade 5
+
+- Pergunta 1  
+Ao criar um modelo econômico de uma aplicação, é necessário determinar todos os custos para que seja possível fazer uma comparação justa. Identifique a qual tipo de custos estamos nos referindo no seguinte excerto: “[...] todo um conjunto de gerenciamento de software está em uso em qualquer instalação [...]”.  
+Assinale a alternativa correta que o define.  
+
+```"
+Custo de software de infraestrutura.
+```
+
+- Pergunta 2  
+Duas divisões em uma empresa, com departamentos de TI separados, decidem que desejam armazenar alguns de seus dados na nuvem. Desconhecidos um do outro, eles escolhem o mesmo provedor de nuvem e negociam contratos separados com ele. Esse tipo de negociação pode gerar que tipo de situação? Assinale a alternativa correta.  
+
+```"
+Pode custar mais potencialmente à empresa, em longo prazo.
+```
+
+- Pergunta 3  
+Algumas organizações simplesmente querem começar a usar a nuvem sem despesas adicionais. No entanto, em grandes organizações, geralmente há vários ambientes de desenvolvimento e partes estratégicas do desenvolvimento se movendo para o ambiente na nuvem. Assim, é provável que essa seja uma decisão complexa, em vez de uma decisão tática. Nessa situação, as organizações têm que tomar uma decisão olhando para ambos, custos iniciais e apoio a longo prazo. Que tipo de serviço em nuvem é o mais adequado a esse tipo de situação?  
+
+```"
+PaaS pura e de código aberto.
+```
+
+- Pergunta 4  
+Sabemos que o e-mail é um aplicativo que pode rodar sob computação em nuvem. Qual o nome que se dá a esse tipo de aplicativo? Identifique e marque a alternativa correta.  
+
+```"
+Aplicativo massivamente dimensionado.
+```
