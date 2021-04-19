@@ -11,7 +11,7 @@ Descreva sua resposta justificando logo abaixo:
 
 ## Solução
 
-Claro Big Bos, pode deixar, vamos acabar com essa confusão que está ficando feio! 
+Claro Big Bos, pode deixar, vamos acabar com essa confusão que está ficando feio!
 Para a demanda do cliente que são ferramentas para apoiar processos, operações,
 inteligência, TI, mover dados, gerenciar informações e possuir bons relatórios para
 que os gerentes possam ler. A alternativa mais viável seria o SIG, pois esse sistema
