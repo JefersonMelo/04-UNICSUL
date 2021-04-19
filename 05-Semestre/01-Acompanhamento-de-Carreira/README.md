@@ -5,27 +5,27 @@
 ### Respostas das Ativdades
 
 - Pergunta 1  
-Altos investimentos em inovações, aplicando-se às melhores práticas de gestão e alinhadas às expectativas dos clientes, podem:
-I- Ser insuficientes para alcançar o êxito empresarial.
+Altos investimentos em inovações, aplicando-se às melhores práticas de gestão e alinhadas às expectativas dos clientes, podem:  
+I- Ser insuficientes para alcançar o êxito empresarial.  
 II- Enfraquecer os objetivos organizacionais.
-III- Desmotivar os clientes.
+III- Desmotivar os clientes.  
 
 ```"
 I
-´´´
+```
 
 - Pergunta 2  
 Quanto à inovação de processos segundo a Fundação Getúlio Vargas, pode-se afirmar que:
 
-´´´"
+```"
 Desenvolve novos meios de fabricação de produtos ou de novas formas de relacionamento para a prestação de serviços.
 ```
 
 - Pergunta 3  
-Quais os fatores de inbição à inovação?
-I- Pressão por resultados de curto prazo.
-II- Fracasso dos executivos na modelagem de comportamentos.
-III- Falta de recompensas no desempenho de curto prazo.
+Quais os fatores de inbição à inovação?  
+I- Pressão por resultados de curto prazo.  
+II- Fracasso dos executivos na modelagem de comportamentos.  
+III- Falta de recompensas no desempenho de curto prazo.  
 
 ```"
 I e II.
@@ -46,10 +46,10 @@ Satisfação pessoal.
 ```
 
 - Pergunta 6  
-O método proposto pelo autor Benôit Grouard é formado por dez chaves, ele considera essas dez chaves essenciais para:
-I- Aceleração das mudanças e para a maximização das suas chances de sucesso.
-II- Conquista de uma de uma estratégia organizacional.
-III- Ações e métodos para a implementação da mudança.
+O método proposto pelo autor Benôit Grouard é formado por dez chaves, ele considera essas dez chaves essenciais para:  
+I- Aceleração das mudanças e para a maximização das suas chances de sucesso.  
+II- Conquista de uma de uma estratégia organizacional.  
+III- Ações e métodos para a implementação da mudança.  
 
 ```"
 I e III
@@ -162,10 +162,10 @@ Estágio II.
 ```
 
 - Pergunta 22  
-Robbins (2005) classifica os conflitos em três tipos:
-I- De tarefa que se relaciona à maneira como o trabalho é realizado.
-II- De relacionamento, que se refere às relações interpessoais.
-III- De processo que está relacionado com o conteúdo e os objetivos do trabalho.
+Robbins (2005) classifica os conflitos em três tipos:  
+I- De tarefa que se relaciona à maneira como o trabalho é realizado.  
+II- De relacionamento, que se refere às relações interpessoais.  
+III- De processo que está relacionado com o conteúdo e os objetivos do trabalho.  
 
 ```"
 
