@@ -4,7 +4,7 @@
 
 ### Pergunta 1
 
-“É sempre bom lembrar que o mercado negro de informações é um dos mais lucrativos do mundo. De acordo com pesquisa da Digital Shadows, calcula-se que algo em torno de 15 bilhões de credenciais de contas roubadas estão à venda em fóruns de crimes cibernéticos na dark web. Desses, 5 bilhões são considerados únicos, isto é, não foram oferecidos para venda mais de uma vez. Os nomes de usuários e senhas vêm de mais de 100.000 violações de dados separadas e incluem credenciais de acesso para contas financeiras, e-mails, serviços de streaming e pontos de acesso para sistemas de centenas de organizações. As informações roubadas que vão à venda nesse mercado têm um preço médio de US$ 15,00 por conta. Quando se trata de contas financeiras ou bancárias, pode subir a US$ 70,00 por pessoa. Contas de streaming, mídia social e outros serviços podem ser compradas por menos de US$ 10,00. A quantidade de credenciais desviadas aumentou em 300% desde 2018” (GAZETA DO POVO. Privacidade ameaçada. 09/08/2020. Disponível em: <https://bit.ly/3tQTgrA>. Data de acesso: 11/02/2021).  
+“É sempre bom lembrar que o mercado negro de informações é um dos mais lucrativos do mundo. De acordo com pesquisa da Digital Shadows, calcula-se que algo em torno de 15 bilhões de credenciais de contas roubadas estão à venda em fóruns de crimes cibernéticos na dark web. Desses, 5 bilhões são considerados únicos, isto é, não foram oferecidos para venda mais de uma vez. Os nomes de usuários e senhas vêm de mais de 100.000 violações de dados separadas e incluem credenciais de acesso para contas financeiras, e-mails, serviços de streaming e pontos de acesso para sistemas de centenas de organizações. As informações roubadas que vão à venda nesse mercado têm um preço médio de US$ 15,00 por conta. Quando se trata de contas financeiras ou bancárias, pode subir a US$ 70,00 por pessoa. Contas de streaming, mídia social e outros serviços podem ser compradas por menos de US$ 10,00. A quantidade de credenciais desviadas aumentou em 300% desde 2018” (GAZETA DO POVO. Privacidade ameaçada. [Matéria Completa](https://bit.ly/3tQTgrA).  
 Utilizando seus conhecimentos acerca da temática sobre fake news e privacidade na internet, analise as alternativas a seguir e identifique a correta:  
 
 ```"
@@ -67,7 +67,7 @@ A pandemia chega quando o mundo já conhecia um aumento do negacionismo científ
 Considerando o texto apresentado, avalie as asserções a seguir e a relação proposta entre elas:  
 
 i. O negacionismo científico se tornou mais perigoso na contemporaneidade devido à popularização da Internet sem fio e de celulares  
-**PORQUE**
+**PORQUE**  
 ii. Idealmente, cada pessoa deveria tomar como verdadeiro apenas aquilo para o que possui, individualmente, evidências científicas suficientes.  
 
 A respeito dessas asserções, assinale a alternativa CORRETA:  
