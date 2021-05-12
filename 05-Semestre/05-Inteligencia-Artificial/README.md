@@ -96,3 +96,35 @@ a fim de representar possíveis soluções do problema.
 
 ## Unidade III  
 
+### Pergunta 1
+
+Pode-se considerar que aprendizagem de máquina é a capacidade de melhorar o desempenho na realização de alguma tarefa por meio da experiência, do que se aprende. Assim, considerando que a maioria dos autores classifica a aprendizagem ou o aprendizado de máquina em várias categorias, é CORRETO dizer que a aprendizagem supervisionada  
+
+```"
+pressupõe a presença de um supervisor, este considerado 
+com algum critério ou medida de adequação, assim como 
+qualquer outro tipo de processo que oriente o treinamento ou aprendizado.  
+```
+
+### Pergunta 2
+
+A regra ou teorema de Bayes é significativamente útil porque, às vezes, vários termos são conhecidos e necessitamos encontrar uma probabilidade incógnita. Assim, o teorema de Bayes recebe este nome devido ao matemático inglês Thomas Bayes (1701-1761), quem originalmente forneceu tal equação para prever novas evidências, relacionando probabilidades a priori com probabilidades condicionadas.  
+Considerando a afirmação acima e que as aprendizagens estatística e bayesiana utilizam como base a teoria das probabilidades,analise o seguinte problema a fim de descobrir os valores de suas probabilidades:  
+
+P(a) = 0,20
+
+P(b) = 0,30
+
+P(a | b) = 0,40
+
+Qual é, portanto, o valor da probabilidade condicional ou posterior P(b | a)?  
+
+```"
+0,60.
+```
+
+### Pergunta 3
+
+Considerando que as aprendizagens estatística e bayesiana utilizam como base a teoria das probabilidades,analise os seguintes conjuntos denominadosEvento e Universo e seus RESPECTIVOS valores: Evento = {a, f, w} Universo = {a, d, f, g, k, u, v, w, z} Logo, a probabilidade de algum dos elementos do conjunto Evento ser encontrado dentro do conjunto Universo é de  
+
+
