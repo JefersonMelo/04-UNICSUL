@@ -59,7 +59,7 @@ I, II e III.
 
 Para a resolução de problemas, são comumente utilizadas técnicas que procuram uma solução em um espaço de estados do problema a ser resolvido, tentando chegar em um estado objetivo – solução – o mais rápido possível. Em geral, estas técnicas são conhecidas como resoluções de problemas por meio de buscas, de modo que uma das estratégias de buscas mais referenciadas é chamada debusca em profundidade, entendida também como depth-first search. Assim, imagine que lhe foi solicitado analisar o espaço de estados mostrado na seguinte Figura, supondo custos de passos iguais em todos os casos:  
 
-![<img src="img/img_3.png">](<img src="img/img_3.png">)  
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/05-Inteligencia-Artificial/img/img_3.png)  
 
 Tudo isto para que você analise estes dois aspectos: I Ordem de geração/visita dos estados no espaço de estados da Figura no caso de uma busca em profundidade. II Identificação da busca em profundidade como completa ou não completa; além de verificar se é ou não ótima. Assinale a alternativa que dá posicionamentos CORRETOS aos dois aspectos acima listados:  
 
@@ -71,12 +71,14 @@ E1, F1, E4, E5, O1, F2, E6, O2; trata-se de busca não completa, nem ótima.
 
 Considerando que nesta Unidade estudamos diferentes métodos para a resolução de problemas por meio de buscas em um espaço de estados, de modo que um espaço de estados – state space – é uma representação dos estados possíveis pelos quais transcorremà solução de um problema, ou seja, os possíveis caminhos e estados que podemos gerar e visitar para chegar à resolução de um determinado problema;na representação gráfica da solução de um problema em um espaço de estados, utilizamos frequentemente um grafo, com nós e arcos. Assim, considerando que na seguinte Figura foi desenhado um grafo de tempos necessários, em minutos, para ir de carro de um ponto de referência da cidade para outro ponto, em condições normais de trânsito e a uma velocidade constante de 50 km/h:  
 
-![<img src="img/img_4.png">](<img src="img/img_4.png">)  
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/05-Inteligencia-Artificial/img/img_4.png)  
 
 Deve-se definir um estado inicial e outro final para a resolução deste problema da seguinte forma:  
 
 ```"
-Um custo de caminho mínimo poderia ser uma solução ótima do problema;os restantes pontos de referência seriam estados intermediários, sendo desejável que o algoritmo utilizado seja completo, além de ótimo.  
+Um custo de caminho mínimo poderia ser uma solução ótima do problema;
+os restantes pontos de referência seriam estados intermediários, 
+sendo desejável que o algoritmo utilizado seja completo, além de ótimo.  
 ```
 
 ### Pergunta 3
@@ -84,7 +86,12 @@ Um custo de caminho mínimo poderia ser uma solução ótima do problema;os rest
 Considerando que nesta Unidade estudamos diferentes métodos para a resolução de problemas por meio de buscas em um espaço de estados, de modo que um espaço de estados – state space –é uma representação dos estados possíveis pelos quais transcorremà solução de um problema, ou seja, os possíveis caminhos e estados que podemos gerar e visitar para chegar à resolução de um determinado problema;na representação gráfica da solução de um problema em um espaço de estados, utilizamos frequentemente um grafo, com nós e arcos, de modo que os nós do grafo – este que representa um espaço de estados – são  
 
 ```"
-estados parciais, intermediários ou finais na solução do problema, sendo que um desses nós será considerado o estado inicial para o princípio da solução do problema; os arcos são passos ou etapas no processo de solução do problema e poderiam incluir um peso ou custo de caminho; enquanto que o grafo costuma definir estados objetivos, a fim de representar possíveis soluções do problema.
+estados parciais, intermediários ou finais na solução do problema, 
+sendo que um desses nós será considerado o estado inicial para o 
+princípio da solução do problema; os arcos são passos ou etapas no 
+processo de solução do problema e poderiam incluir um peso ou custo 
+de caminho; enquanto que o grafo costuma definir estados objetivos, 
+a fim de representar possíveis soluções do problema.
 ```
 
 ## Unidade III  
