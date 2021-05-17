@@ -127,4 +127,4 @@ Qual é, portanto, o valor da probabilidade condicional ou posterior P(b | a)?
 
 Considerando que as aprendizagens estatística e bayesiana utilizam como base a teoria das probabilidades,analise os seguintes conjuntos denominadosEvento e Universo e seus RESPECTIVOS valores: Evento = {a, f, w} Universo = {a, d, f, g, k, u, v, w, z} Logo, a probabilidade de algum dos elementos do conjunto Evento ser encontrado dentro do conjunto Universo é de  
 
-
+## Unidade IV
