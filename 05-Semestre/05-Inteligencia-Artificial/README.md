@@ -128,3 +128,71 @@ Qual é, portanto, o valor da probabilidade condicional ou posterior P(b | a)?
 Considerando que as aprendizagens estatística e bayesiana utilizam como base a teoria das probabilidades,analise os seguintes conjuntos denominadosEvento e Universo e seus RESPECTIVOS valores: Evento = {a, f, w} Universo = {a, d, f, g, k, u, v, w, z} Logo, a probabilidade de algum dos elementos do conjunto Evento ser encontrado dentro do conjunto Universo é de  
 
 ## Unidade IV
+
+### Pergunta 1
+
+Considerando que a lógica de predicados oferece um mecanismo simples para armazenar conhecimento e preparar proposições para raciocínio e inferência, sejam os seguintes predicados utilizados para selecionar candidatos a uma vaga em uma empresa de publicidade: media(nome-do-aluno,valor-da-media) sexo(nome-do-aluno,sexo) Analise cuidadosamente a proposição lógica composta a seguir:  
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/05-Inteligencia-Artificial/img/9448743.png)  
+
+Portanto,
+
+```"
+quaisquer que sejam n, m, s, a alunanserá uma candidata a essa vaga se e somente se tiver uma média m maior que 8.5 pontos e for uma mulher.  
+```
+
+### Pergunta 2
+
+Considerando que a lógica proposicional oferece um mecanismo simples para armazenar conhecimento e preparar proposições para raciocínio e inferência, sejam os símbolos proposicionais q, tes:  
+
+s: O aluno poderá colar grau.  
+
+q: A nota na defesa do Trabalho de Conclusão de Curso (TCC) foi maior ou igual a7,0 pontos.  
+
+t: O aluno foi aprovado em todas as disciplinas.  
+
+Analise cuidadosamente a proposição lógica composta a seguir:![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/05-Inteligencia-Artificial/img/img_1.png)  
+
+Portanto,  
+
+```"
+se a nota na defesa do TCC for maior ou igual a 7,0 pontos e o aluno foraprovado em todas as disciplinas, então poderá colar grau.  
+```
+
+### Pergunta 3
+
+Considerando que a lógica proposicional oferece um mecanismo simples para armazenar conhecimento e preparar proposições para raciocínio e inferência, sejam os símbolos proposicionais p, q e r:  
+
+p: A nota final do aluno na disciplina é maior ou igual a6,0 pontos.  
+
+q: Afrequência às aulas da disciplina é maior ou igual a75%.  
+
+r: Oaluno está aprovado na disciplina.  
+
+Analise cuidadosamente a proposição lógica composta a seguir:  
+
+~p ν ~q → ~r  
+
+Portanto,  
+
+```"
+
+```
+
+### Pergunta 4
+
+Considerando que a lógica proposicional oferece um mecanismo simples para armazenar conhecimento e preparar proposições para raciocínio e inferência, sejam os símbolos proposicionais p, q e r:
+
+p: A nota final do aluno na disciplina é maior ou igual a 6,0 pontos.  
+
+q: A frequência às aulas da disciplina é maior ou igual a 75%.  
+
+r: O aluno está aprovado na disciplina. Analise cuidadosamente a proposição lógica composta a seguir: Considerando que a lógica proposicional oferece um mecanismo simples para armazenar conhecimento e preparar proposições para raciocínio e inferência, sejam os símbolos proposicionais p, q e r: p: A nota final do aluno na disciplina é maior ou igual a 6,0 pontos. q: A frequência às aulas da disciplina é maior ou igual a 75%. r: O aluno está aprovado na disciplina. Analise cuidadosamente a proposição lógica composta a seguir: ![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/05-Inteligencia-Artificial/img/img.png)  
+
+Portanto,  
+
+```"
+o aluno estará aprovado na disciplina se e somente se a sua nota final for maior ou igual a 6,0 pontos e a frequência às aulas da disciplina for maior ou igual a 75%.
+```
+
+## Unidade V
