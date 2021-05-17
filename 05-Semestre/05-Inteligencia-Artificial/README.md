@@ -138,7 +138,9 @@ Considerando que a lógica de predicados oferece um mecanismo simples para armaz
 Portanto,
 
 ```"
-quaisquer que sejam n, m, s, a alunanserá uma candidata a essa vaga se e somente se tiver uma média m maior que 8.5 pontos e for uma mulher.  
+quaisquer que sejam n, m, s, a aluna n será uma 
+candidata a essa vaga se e somente se tiver uma 
+média m maior que 8.5 pontos e for uma mulher.  
 ```
 
 ### Pergunta 2
@@ -156,7 +158,8 @@ Analise cuidadosamente a proposição lógica composta a seguir:![alt](https://g
 Portanto,  
 
 ```"
-se a nota na defesa do TCC for maior ou igual a 7,0 pontos e o aluno foraprovado em todas as disciplinas, então poderá colar grau.  
+se a nota na defesa do TCC for maior ou igual a 7,0 pontos 
+e o aluno foraprovado em todas as disciplinas, então poderá colar grau.  
 ```
 
 ### Pergunta 3
@@ -176,7 +179,10 @@ Analise cuidadosamente a proposição lógica composta a seguir:
 Portanto,  
 
 ```"
-
+se a nota final do aluno na disciplina não for 
+menor que 6,0 pontos ou a frequência às aulas 
+da disciplina não for menor que 75%, então o aluno 
+não estará reprovado nessa disciplina.
 ```
 
 ### Pergunta 4
@@ -192,7 +198,44 @@ r: O aluno está aprovado na disciplina. Analise cuidadosamente a proposição l
 Portanto,  
 
 ```"
-o aluno estará aprovado na disciplina se e somente se a sua nota final for maior ou igual a 6,0 pontos e a frequência às aulas da disciplina for maior ou igual a 75%.
+o aluno estará aprovado na disciplina se e somente se 
+a sua nota final for maior ou igual a 6,0 pontos e a 
+frequência às aulas da disciplina for maior ou igual a 75%.
 ```
 
 ## Unidade V
+
+### Pergunta 1
+
+Um programa PROLOG (Strawberry Prolog) para processamento dos dados de um grupo de veículos vendidos numa loja utiliza fatos como:  
+modelo (com os parâmetros: nome do modelo, potência do motor em cv e consumo em km/litro, nesta mesma ordem), por exemplo: modelo("Gol", 75, 11.9)  
+veiculos (com os parâmetros: placa, marca, modelo, ano de fabricação, cor e preço, nesta mesma ordem), por exemplo: veiculos("FEA-1987", "Ford", "Mustang", 2014, azul, 92500)  
+Para definir "veículo caro", considerando que será um veículo com preço maior que R$ 90.000,00, a resposta correta é:  
+
+```"
+veiculoCaro(T) :- veiculos(T,V,W,X,Y,Z), Z>90000, nl.
+```
+
+### Pergunta 2
+
+Um programa PROLOG (Strawberry Prolog) para processamento dos dados de um grupo de veículos vendidos numa loja utiliza fatos como:  
+
+modelo (com os parâmetros: nome do modelo, potência do motor em cv e consumo em km/litro, nesta mesma ordem), por exemplo: modelo("Gol", 75, 11.9)  
+
+veiculos (com os parâmetros: placa, marca, modelo, ano de fabricação, cor e preço, nesta mesma ordem), por exemplo: veiculos("FEA-1987", "Ford", "Mustang", 2014, azul, 92500)  
+
+Para listar todos os nomes dos modelos no cadastro na loja, a resposta correta é:  
+
+```"
+?- modelo(W,P,C), write(W), nl.
+```
+
+### Pergunta 3
+
+Um programa PROLOG (Strawberry Prolog) para processamento dos dados de um grupo de veículos vendidos numa loja utiliza fatos como:  
+modelo (com os parâmetros: nome do modelo, potência do motor em cv e consumo em km/litro, nesta mesma ordem), por exemplo: modelo("Gol", 75, 11.9) veiculos (com os parâmetros: placa, marca, modelo, ano de fabricação, cor e preço, nesta mesma ordem), por exemplo: veiculos("FEA-1987", "Ford", "Mustang", 2014, azul, 92500)  
+Para listar os nomes dos modelos com mais de 95 cv a resposta correta é:  
+
+```"
+?- modelo(W,P,C), P >95, write(W),nl.
+```
