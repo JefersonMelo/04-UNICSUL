@@ -176,3 +176,36 @@ III - Existem, basicamente, dois tipos de algoritmos de roteamento utilizados na
 I e III, apenas.
 ```
 
+## Unidade V
+
+### Pergunta 1
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_VI.png)  
+
+```"
+Decomposição; multiplicamos.
+```
+
+### Pergunta 2
+
+Converta o número decimal 15 em número binário e assinale a alternativa CORRETA:  
+
+```"
+1111
+```
+
+### Pergunta 3
+
+Converta o número binário 1001 em número decimal e assinale a alternativa CORRETA:  
+
+```"
+9
+```
+
+### Pergunta 4
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_VII.png)
+
+```"
+1987; variado; diferentes
+```
