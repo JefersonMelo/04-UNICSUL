@@ -109,7 +109,8 @@ I-2; II-1; III-3.
 ![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_III.png)  
 
 ```"
-Uma das máquinas, a que está com a cor vermelha, não se comunicará com as outras seis máquinas, pois seu endereço de rede não é semelhante aos outros endereços de rede.
+Uma das máquinas, a que está com a cor vermelha, não se comunicará com as outras seis máquinas,
+pois seu endereço de rede não é semelhante aos outros endereços de rede.
 ```
 
 ### Pergunta 2
