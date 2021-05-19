@@ -65,3 +65,39 @@ III - O engenheiro Bob Metcalfe e o doutor Boggs desenvolveram a ethernet no in�
 II e III, apenas.
 ```
 
+### Pergunta 2
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_II.png)  
+
+```"
+ethernet; instalação.
+```
+
+### Pergunta 3
+
+Leia atentamente as informações contidas nas colunas A e B para, em seguida, assinalar a alternativa que reúne as correspondências CORRETAS entre as informações nestas contidas.
+Coluna A:  
+I - Um quadro ethernet vai para um destino único. Analogamente, pode-se tomar como exemplo o envio de um e-mail para uma única pessoa; o e-mail é direcionado.  
+II - Um quadro vai para múltiplos destinos. Analogamente, pode-se tomar como exemplo o envio de um e-mail para um grupo de pessoas; portanto, um e-mail é distribuído para um grupo de pessoas.  
+III - Um quadro vai para todos os destinos, ou seja, o quadro é enviado para todas as máquinas de uma mesma rede.  
+
+```"
+I-3; II-1; III-2.
+```  
+
+### Pergunta 4
+
+Leia atentamente as informações contidas nas colunas A e B para, em seguida, assinalar a alternativa que reúne as correspondências CORRETAS entre as informações nestas contidas.
+Coluna A:  
+I - Caracteriza-se por ter um ponto central para interligar os computadores a fim de estabelecer comunicações.  
+II - Caracteriza-se por circular no anel, um conjunto padrão de oito bits, chamado de token.
+III - Caracteriza-se por enviar os dados apenas em um sentido como, por exemplo, sentido anti-horário.  
+Coluna B:  
+1 - Topologia multiponto.  
+2 - Topologia em estrela.  
+3 - Topologia ponto a ponto.  
+A associação CORRETA é:  
+
+```"
+I-2; II-1; III-3.
+```
