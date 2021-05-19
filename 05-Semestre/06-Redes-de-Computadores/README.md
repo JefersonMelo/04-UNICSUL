@@ -101,3 +101,38 @@ A associação CORRETA é:
 ```"
 I-2; II-1; III-3.
 ```
+
+## Unidade III  
+
+### Pergunta 1  
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_III.png)  
+
+```"
+Uma das máquinas, a que está com a cor vermelha, não se comunicará com as outras seis máquinas, pois seu endereço de rede não é semelhante aos outros endereços de rede.
+```
+
+### Pergunta 2
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_IV.png)  
+
+### Pergunta 3
+
+Analise as assertivas a seguir:  
+I - Transmissão simplex – ocorre em múltiplos sentidos.  
+II - Transmissão half duplex – ocorre nos dois sentidos, no entanto, não simultaneamente.  
+III - Transmissão full duplex – pode ocorrer nos dois sentidos, simultaneamente.  
+É VERDADEIRO o que se afirma em:  
+
+```"
+II e III, apenas.
+```
+
+### Pergunta 4
+
+Tem a função de garantir a transmissão fim a fim. Além disso, tem a função de receber os dados da camada de sessão, segmentar e identificar para enviá-los à camada de rede. A segmentação é necessária para que os dados sejam transportados por tecnologias usadas na camada de enlace.  
+Trata-se da camada de:  
+
+```"
+transporte
+```
