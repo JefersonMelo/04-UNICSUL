@@ -137,3 +137,42 @@ Trata-se da camada de:
 ```"
 transporte
 ```
+
+## Unidade IV
+
+### Pergunta 1
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/05-Semestre/06-Redes-de-Computadores/images/img_V.png)  
+
+```"
+Cisco; solucionou
+```
+
+### Pergunta 2
+
+No roteamento por vetor a distância, os equipamentos responsáveis por rotear possuem uma tabela com a melhor distância conhecida para os vários destinos alcançáveis e a interface de saída a ser usada para chegar até o destino. A tabela é atualizada, de tempos em tempos, pelos equipamentos diretamente conectados para mantê-la atualizada. O algoritmo usado nesse tipo de roteamento segue o modelo do melhor caminho, desenvolvido por Bellman-Ford. Esse modelo serviu para rotear pacotes no início da internet e foi chamado de:  
+
+```"
+RIP
+```
+
+### Pergunta 3
+
+Este tipo de protocolo não envia toda a tabela de roteamento para os equipamentos vizinhos a cada atualização da tabela. Em vez disso, envia apenas informações sobre um determinado evento ocorrido na rede, o qual pode ser a perda ou a inserção de um link. Essas informações são enviadas por:  
+
+```"
+Anúncio de Estado de Link (LSA).
+```
+
+### Pergunta 4
+
+Analise as seguintes assertivas sobre roteamento TCP/IP:  
+I - A finalidade do roteamento é escolher o melhor caminho que um pacote deve seguir para chegar ao seu destino. Os equipamentos que executam roteamento armazenam uma tabela na memória RAM, na qual há correspondência entre o endereço de destino e a interface que oferecer melhor encaminhamento.  
+II - Para que o roteamento seja possível, há alguns protocolos responsáveis por construir e manter as tabelas de roteamento. Esses protocolos baseiam-se em caracteres escolhidos pelo usuário para dar melhor desempenho ao armazenamento e gerência das tabelas.  
+III - Existem, basicamente, dois tipos de algoritmos de roteamento utilizados na arquitetura TCP/IP: vetor de distância – distance-vector – e estado do enlace – link- state.  
+É VERDADEIRO o que se afirma em:  
+
+```"
+I e III, apenas.
+```
+
