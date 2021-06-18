@@ -12,7 +12,7 @@
 
 A Computação em Nuvem, por ser um conjunto de recursos com capacidade de processamento, armazenamento, conectividade, que oferece plataformas, aplicações e serviços na Internet poderá ser considerada a próxima geração da Internet. Assinale a alternativa correta.  
 
->A Computação em Nuvem veio para complementar os serviços da Internet.
+>A Computação em Nuvem surgiu com o intuito de substituir a grande Rede de Computadores.
 
 ### Questão 3 - COMPUTAÇÃO EM NUVEM (2661) Código da questão: 9926  
 
