@@ -75,7 +75,7 @@ Posto isto podemos afirmar que elementos como Visão, Fala, Escuta, Olfato e Tat
 O modelo ou enfoque utilizado pela IA define a forma de estudo, estratégias e as ações ou implementações desta. Por exemplo, a IA pode ser baseada na hipótese de causa-efeito, utilizando um modelo preciso do cérebro humano que seria suficiente para reproduzir a inteligência, o raciocínio, a inferência; ou então em uma estrutura de redes (onde se tem como principais exemplos os trabalhos com redes neurais).  
 Podemos identificar os exemplos apresentados como aqueles presentes no modelo ou enfoque de IA classificado como:  
 
->Simbólico.
+>Conexionista.
 
 ### Questão 12 - INTELIGÊNCIA ARTIFICIAL (1985) Código da questão: 50477
 
@@ -88,7 +88,7 @@ II. As técnicas de IA pretendem substituir artificialmente, e de forma melhorad
 III. Elementos de percepção como tato, manipulação de objetos, olfato e visão poderiam ser artificialmente simulados por máquinas ou sistemas inteligentes.  
 As assertivas corretas são:  
 
->As assertivas I, II e III estão corretas  
+>Somente as assertivas I e III estão corretas  
 
 ### Questão 13 - PRINCÍPIOS DE ADMINISTRAÇÃO E MARKETING (1312) Código da questão: 48193  
 
@@ -198,7 +198,7 @@ O que significa multicast?
 
 Qual das opções NÃO é um endereço MAC válido?  
 
->D0:00:F0:00:F0:E0
+>00:1E:3B:3G:01:05
 
 ### Questão 25 - CONHECIMENTOS GERAIS Código da questão: 71235  
 
@@ -207,3 +207,11 @@ Promover a ignorância, impondo uma verdadeira guerra cultural – Essa foi uma 
 Assinale a alternativa que apresenta um dos meios mais utilizados por esse segmento para levar suas ideias à população:  
 
 >Redes Sociais.
+
+### Questão 26 - CONHECIMENTOS GERAIS
+
+Avalie as proposições abaixo e indique a alternativa correta: O endereço de URL de um website que compartilha notícias não é importante para a checagem de fake news. Textos com informações alarmantes precisam ser compartilhados com urgência para outras pessoas de modo que a informação chegue o mais rápido possível ...  
+
+```"
+F, F, V, F
+```
