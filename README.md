@@ -18,3 +18,7 @@
 - ### [INTELIGENCIA ARTIFICIAL](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/05-Inteligencia-Artificial)  
 
 - ### [REDES DE COMPUTADORES](https://github.com/JefersonMelo/04-UNICSUL/tree/master/05-Semestre/06-Redes-de-Computadores)  
+
+## [6º Semestre](https://github.com/JefersonMelo/04-UNICSUL/tree/master/06-Semestre)
+
+- ### [SISTEMAS INTEGRADOS DE GESTÃO](https://github.com/JefersonMelo/04-UNICSUL/tree/master/06-Semestre/01-Sistemas-Integrados-de-Gest%C3%A3o)

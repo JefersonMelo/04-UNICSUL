@@ -1,4 +1,4 @@
-# Sistemas-Integrados-de-Gestão
+# Sistemas Integrados de Gestão
 
 ## Materiial de Apoio Complementar
 
@@ -40,7 +40,7 @@ IV. Gestão de dados e informações.
 Está CORRETO o que se AFIRMA:
 
 ```"
---> Em todas as afirmativas.
+Em todas as afirmativas.
 ```
 
 #### Pergunta 2
@@ -56,7 +56,7 @@ Aglomerado de bytes
 É considerado o ponto de partida para o modelo de Governança de TI:
 
 ```"
-Alinhamento estratégico.
+Alinhamento estratégico
 ```
 
 #### Pergunta 4
@@ -69,7 +69,7 @@ III. Frequentemente há perda de dados.
 Assinale a alternativa CORRETA:  
 
 ```"
-Apenas a afirmação I está correta.
+Apenas a afirmação I está correta
 ```
 
 ### Gestão Empresarial – Conceitos e Impactos
@@ -83,7 +83,7 @@ III. Aumento da qualidade da decisão.
 Assinale a alternativa CORRETA:  
 
 ```"
-Apenas as afirmações I e III estão corretas.
+Apenas as afirmações I e III estão corretas
 ```
 
 #### Pergunta 2
@@ -106,7 +106,7 @@ IV. Gestão de dados e informações
 Está CORRETO o que se afirma:  
 
 ```"
-Todas as afirmativas estão corretas.
+Todas as afirmativas estão corretas
 ```
 
 #### Pergunta 4
@@ -136,7 +136,7 @@ Leia atentamente a afirmativa:
 É CORRETO associarmos a afirmação com:  
 
 ```"
-Impacto da T.I. na Gestão-
+Impacto da T.I. na Gestão
 ```
 
 #### Pergunta 3
@@ -168,7 +168,7 @@ Quanto à ambição em se instaurar um SIG na empresa, é
 INCORRETO afirmar que se deve a:  
 
 ```"
-desinteresse na atualização de sistemas existentes.
+desinteresse na atualização de sistemas existentes
 ```
 
 #### Pergunta 2
@@ -191,7 +191,7 @@ III. monitoramento off-line da realização da estratégia.
 Assinale a alternativa CORRETA:
 
 ```"
-Apenas as afirmações I e II estão corretas.
+Apenas as afirmações I e II estão corretas
 ```
 
 #### Pergunta 4
@@ -200,7 +200,7 @@ Assinale a alternativa CORRETA.
 É característica necessária e obrigatória ao gestor entendimento dos:  
 
 ```"
-Requisitos tecnológicos, operacionais, organizacionais, estratégicos e culturais.
+Requisitos tecnológicos, operacionais, organizacionais, estratégicos e culturais
 ```
 
 ### Fundamentos do ERP
