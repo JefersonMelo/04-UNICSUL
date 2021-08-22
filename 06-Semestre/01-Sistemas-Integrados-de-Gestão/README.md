@@ -1,6 +1,6 @@
 # Sistemas Integrados de Gestão
 
-## Materiial de Apoio Complementar
+## Material de Apoio Complementar
 
 - ERP - Planejamento de Recursos Empresariais
   - [Sistemas de planejamento de recursos empresariais - ERP](https://www.youtube.com/watch?v=A0pMR2Y5yyU)
