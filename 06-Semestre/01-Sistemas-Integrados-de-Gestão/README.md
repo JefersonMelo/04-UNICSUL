@@ -32,12 +32,12 @@
 
 #### Pergunta 1
 
-A Tecnologia da Informação está fundamentada nos seguintes princípios:
-I. Hardware e seus dispositivos periféricos.
-II. Software e seus recursos.
-III. Sistemas de telecomunicações.
-IV. Gestão de dados e informações.
-Está CORRETO o que se AFIRMA:
+A Tecnologia da Informação está fundamentada nos seguintes princípios:  
+I. Hardware e seus dispositivos periféricos.  
+II. Software e seus recursos.  
+III. Sistemas de telecomunicações.  
+IV. Gestão de dados e informações.  
+Está CORRETO o que se AFIRMA:  
 
 ```"
 Em todas as afirmativas.
@@ -45,7 +45,7 @@ Em todas as afirmativas.
 
 #### Pergunta 2
 
-É INCORRETO afirmarmos que informação pode ser considerada como:
+É INCORRETO afirmarmos que informação pode ser considerada como:  
 
 ```"
 Aglomerado de bytes
@@ -53,7 +53,7 @@ Aglomerado de bytes
 
 #### Pergunta 3
 
-É considerado o ponto de partida para o modelo de Governança de TI:
+É considerado o ponto de partida para o modelo de Governança de TI:  
 
 ```"
 Alinhamento estratégico
