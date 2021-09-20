@@ -134,3 +134,59 @@ Assinale a alternativa que apresenta o nível de ambiente a que se refere o trec
 ```"
 Nível do ambiente geral ou macroambiente.
 ```
+
+### Estabelecimento da Diretriz Organizacional
+
+#### Pergunta 1
+
+A diretriz organizacional é o conjunto de princípios que estabelece o direcionamento adotado pela organização e está dividida em: missão organizacional, propósitos organizacionais, visão, valores, objetivos e metas organizacionais.  
+Leia as assertivas a seguir e analise-as quanto à sua veracidade (V para verdadeira e F para falsa).  
+I. O processo de definição dessas diretrizes se dá a partir do enfoque mais amplo – a definição da missão, aos enfoques mais específicos – as metas individuais.  
+II. Deve-se observar a coerência entre as diretrizes.  
+III. Não é possível que haja diretrizes conflitantes entre si ou em relação às de enfoque mais amplo.  
+IV. A missão organizacional é a diretriz que subordina todas as demais diretrizes da organização.  
+V. A missão é a diretriz organizacional mais ampla e define o horizonte em que a organização atua ou pretende atuar.  
+As assertivas I, II, III, IV e V são RESPECTIVAMENTE:  
+
+```"
+V, V, V, V, V.
+```
+
+
+#### Pergunta 2
+
+Veja a figura abaixo e leia o texto a seguir, a fim de identificar um dos aspectos ou elementos contemplados no estabelecimento da Diretriz Organizacional, conforme nos revelou Oliveira (2007).  
+
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/06-Semestre/02-Gestão-Estratégica-de-Negócios/images/img_I.png)
+
+De acordo com Oliveira (2007, p. 109), “esses negócios identificados no horizonte, uma vez considerados viáveis e interessantes para a empresa, passam a ser denominados ____________ da empresa”. Assim, ____________ de uma organização constituem-se dos negócios, produtos e serviços compreendidos pelo horizonte da missão que se mostram viáveis e interessantes e, por essa razão, são os escolhidos pelos seus dirigentes.  
+Assinale a alternativa que preenche CORRETA e RESPECTIVAMENTE as lacunas.  
+
+```"
+propósitos; os propósitos;
+```
+
+#### Pergunta 3
+
+Nos estudos sobre o Estabelecimento da Diretriz Organizacional, vimos que a missão contempla um conjunto de informações genéricas sobre a organização que permite a qualquer pessoa, mas, principalmente, a todos stakeholders, compreender o que a organização é e o que ela pretende. Nesse sentido, analise as afirmações a seguir.  
+I. A missão é a determinação do motivo central da existência da empresa, ou seja, a determinação de “quem a empresa atende’’ com seus produtos e serviços.  
+II. A missão corresponde a um horizonte dentro do qual a empresa atua ou poderá atuar.  
+III. A missão representa a razão de ser da empresa.  
+IV. A missão deve estar diretamente correlacionada com o estatuto social da empresa.  
+V. A missão deve envolver os objetivos essenciais do negócio, relacionando-os à satisfação de alguma necessidade do mercado.  
+É CORRETO o que se afirma em:  
+
+```"
+I, II, III e V, apenas.
+```  
+
+#### Pergunta 4
+
+Considerando os estudos empenhados na unidade “Estabelecimento da Diretriz Organizacional”, leia o texto a seguir a fim de identificar sobre qual diretriz estamos falando.  
+“Ser líder no segmento de transporte, gerando confiança através do aprimoramento constante da capacitação técnica, humana e administrativa, acompanhando de forma contínua os avanços mercadológicos”.  
+( Fonte: MAVIMAR. Disponível em: <http://www.mavimar.com.br/principios-organizacionais>. Acesso em: 21 jan. 2017.)  
+Assinale a alternativa que apresenta a diretriz a que o texto lido se refere.  
+
+```"
+Visão.
+```
