@@ -190,3 +190,60 @@ Assinale a alternativa que apresenta a diretriz a que o texto lido se refere.
 ```"
 Visão.
 ```
+
+### Formulação da Estratégia
+
+#### Pergunta 1
+
+Leia o trecho de um estudo de caso e reflita sobre o tipo de estratégia utilizada pela empresa.  
+Estudo de caso | Frigo  
+
+“[...] A empresa Frigo, num determinado momento, para superar novos desafios em relação à concorrência cada vez mais acirrada, tinha a necessidade de se diferenciar, oferecendo novos produtos e novas modalidades de condição de pagamento ao cliente. Para melhor aproveitamento das vendas e agregar valor ao cliente, o negócio deu um importante passo. Começou a vender também utensílios, como pratos, talheres, panelas, copos, de cutelaria, entre outros. Isso ajudou muito, pois o cliente passou a ir mais vezes na loja em um menor espaço de tempo do que quando ele comprava somente os equipamentos tradicionais que a loja vendia, que eram produtos duráveis. [...]”. (MUSSI, 2009, p. 45).  
+*Fonte: MUSSI, Clarissa Carneiro, ANGELONI, Maria Therezinha. Estratégias: formulação, implantação e avaliação. São Paulo: Saraiva, 2009.*  
+
+Assinale a alternativa CORRETA:  
+
+```"
+Estratégia de diversificação concêntrica.
+```
+
+#### Pergunta 2
+
+Todas as organizações podem desenvolver dois tipos de estratégias. As estratégias planejadas ou explícitas, aquelas determinadas pelo processo de análise, planejamento e seleção consciente e presente no processo de gestão estratégica; e as estratégias emergentes ou implícitas, aquelas determinadas pelas circunstâncias. O importante é que as estratégias planejadas ou explícitas prevaleçam, pois essa é a forma de garantir que a organização estará seguindo em direção a uma situação desejada e conhecida.  
+
+Nesse sentido, reflita sobre o passo inicial que deve ser considerado para a formulação da estratégia e assinale a alternativa CORRETA:  
+
+```"
+Considera-se, inicialmente, retomar a análise do ambiente, uma vez que o ambiente organizacional é dinâmico, ou seja, as condições presentes no ambiente geral, no ambiente de negócio e no ambiente interno estão em constante transformação.
+```
+
+#### Pergunta 3
+
+O estudo empenhado na unidade “Formulação da estratégia” apontou, entre outras informações, os tipos básicos de estratégia, considerando, por exemplo, a estratégia de crescimento.  
+
+Reflita sobre algumas das estratégias provenientes à postura de crescimento e assinale a alternativa CORRETA:  
+
+```"
+Espera-se que o gestor aumente o volume de vendas de seus produtos ou serviços ou, ainda, lance produtos e serviços, transformando as ameaças em oportunidades para o negócio.
+```
+
+#### Pergunta 4
+
+Uma ferramenta utilizada para a identificação das estratégias nos níveis corporativos ou organizacionais é a Matriz dos Tipos Básicos de Estratégias proposta por Oliveira (2015). Essa Matriz apresenta o conjunto de estratégias mais adequado, de acordo com a prevalência existente no momento entre oportunidades e ameaças presentes nos ambientes externos à organização, combinados com as forças e fraquezas presentes em seu ambiente interno. Entre os tipos básicos de estratégias, estudamos a “Estratégia de sobrevivência”.  
+Analise as assertivas a seguir quanto à sua veracidade (V para VERDADEIRA e F para FALSA):  
+
+I. Espera-se que o gestor identifique maneiras para reduzir as despesas e, ainda, deixar de investir por um período de tempo, visando evitar que as ameaças resultem na liquidez da empresa.  
+
+II. Consideram-se três estratégias que podem ser adotadas pela empresa numa situação de sobrevivência, são elas: redução de custo, investimento, liquidação do negócio.  
+
+III. Espera-se que o gestor aproveite os pontos fortes da empresa para atuar sobre um cenário de ameaças, visando não somente continuar a sobreviver, mas, sobretudo, manter sua posição no mercado até o momento.  
+
+IV. Espera-se que o gestor aumente o volume de vendas de seus produtos ou serviços ou, ainda, lance produtos e serviços, transformando as ameaças em oportunidades para o negócio.  
+
+V. O gestor deve procurar novos mercados e novos clientes ou, ainda, novas tecnologias. Normalmente, a combinação estratégica dos aspectos - mercadológico e tecnológico - permite ao gestor construir novos negócios.  
+
+As assertivas I, II, III, IV e V são RESPECTIVAMENTE:  
+
+```"
+V, F, F, F, F.
+```
