@@ -2,7 +2,7 @@
 
 ## Respostas aos Questionários Gestão Estratégica de Negócios
 
-### Pensamento Estratégico
+### I Pensamento Estratégico
 
 #### Pergunta 1  
 
@@ -64,7 +64,7 @@ IV. Incorpora ao sistema de planejamento o sistema de ações.
 I, II, III e IV. 
 ```
 
-### Análise do Ambiente
+### II Análise do Ambiente
 
 #### Pergunta 1
 
@@ -135,7 +135,7 @@ Assinale a alternativa que apresenta o nível de ambiente a que se refere o trec
 Nível do ambiente geral ou macroambiente.
 ```
 
-### Estabelecimento da Diretriz Organizacional
+### III Estabelecimento da Diretriz Organizacional
 
 #### Pergunta 1
 
@@ -191,7 +191,7 @@ Assinale a alternativa que apresenta a diretriz a que o texto lido se refere.
 Visão.
 ```
 
-### Formulação da Estratégia
+### IV Formulação da Estratégia
 
 #### Pergunta 1
 
@@ -248,7 +248,7 @@ As assertivas I, II, III, IV e V são RESPECTIVAMENTE:
 V, F, F, F, F.
 ```
 
-### Implementação de Estratégias
+### V Implementação de Estratégias
 
 #### Pergunta 1
 
