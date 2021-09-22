@@ -247,3 +247,62 @@ As assertivas I, II, III, IV e V são RESPECTIVAMENTE:
 ```"
 V, F, F, F, F.
 ```
+
+### Implementação de Estratégias
+
+#### Pergunta 1
+
+O estudo empenhado na unidade “Implementação de estratégias” nos apresentou que a primeira fase do processo de implementação das estratégias, adotando-se o modelo proposto por Certo e Peter (2005), é o da análise das mudanças que serão necessárias na organização para que as estratégias propostas sejam implementadas.  
+
+Reflita sobre o nível “Estratégia de continuação” e assinale a alternativa CORRETA.  
+
+```"
+Para essa estratégia não será necessária nenhuma alteração na organização. Essas estratégias são, na realidade, repetições de estratégias anteriormente implementadas e, por essa razão, podem ser tratadas como processos.
+```
+
+#### Pergunta 2
+
+Definir quais as abordagens mais adequadas para a formulação das estratégias é um fator básico no processo de implementação. Após essa definição, deve-se iniciar o processo de implementação e, de acordo com Certo e Peter (2005, p. 101), “se uma dessas tarefas for malfeita, é provável que o resultado ocasione uma falha na estratégia global”.
+Nesse sentido e com base nos estudos de Certo e Peter (2005), no que se refere à Matriz “Diagnosticando problemas de estratégias”, qual é a conclusão que se pode inferir acerca da formulação e da implementação de estratégias?  
+
+Assinale a alternativa CORRETA.  
+
+```"
+A empresa é como a guerra em certos aspectos, pois se a estratégia adotada for correta, muitos erros táticos podem ser cometidos e a empresa ainda sairá vitoriosa.
+```
+
+#### Pergunta 3
+
+Aprendemos que tão importante quanto a formulação de estratégias alinhadas ao pensamento estratégico, à análise do ambiente, às diretrizes organizacionais, está a relevância de se refletir sobre a implementação, haja vista que o sucesso da implementação está intimamente ligado à qualidade da formulação das estratégicas e vice-versa.  
+
+Nesse sentido, analise as assertivas a seguir.  
+
+I. A estratégia deve ser consistente com o ambiente da empresa.  
+
+II. A estratégia deve ser consistente com os pontos fortes internos, objetivos, políticas, recursos e valores pessoais dos executivos e funcionários da empresa.  
+
+III. A estratégia deve equilibrar o risco mínimo com máximo potencial de lucros, consistente com os recursos e perspectivas da empresa.  
+
+IV. O desenvolvimento de uma estratégia deve remontar o processo de uma análise do objetivo e incorporar ao processo a máxima aplicação de imaginação e criatividade.  
+
+V. Os executivos e os assessores devem compreender os diferentes processos de desenvolvimento da estratégia e saber quando e como aplicar cada técnica ao problema em questão.  
+
+VI. A estratégia deve ter uma ocasião propícia e não ser ilimitada no tempo.  
+
+É CORRETO o que se afirma em:  
+
+```"
+I, II, III, IV, V e VI.
+```
+
+#### Pergunta 4
+
+A análise da estrutura organizacional em função da implementação das estratégias deve ser realizada para identificar como a estrutura organizacional atual poderá influir na estratégia; se irá auxiliar ou dificultar a implementação da estratégia; qual será a distribuição das atribuições relativas à implementação das estratégias – quais pessoas e em que níveis hierárquicos; qual poderá ser o papel desempenhado pela organização informal. Contudo, faz-se necessário refletir sobre o modelo de estrutura organizacional, a partir dos modelos mais comuns elencados por especialistas no assunto.  
+
+Quais características são elencadas no “Modelo de Estrutura Matricial”?  
+
+Assinale a alternativa CORRETA.  
+
+```"
+É adotada pelas organizações que atuam por programas ou projetos, podendo, ainda, ser adotada por qualquer organização de forma temporária, como forma de facilitar o desenvolvimento de um novo projeto ou programa. Nesse tipo de estrutura, as unidades funcionais fornecem recursos humanos que irão atuar nos projetos e programas sob dupla coordenação: do gerente de linha e do gerente do projeto. A estrutura do projeto se posiciona transversalmente à estrutura funcional.
+```
