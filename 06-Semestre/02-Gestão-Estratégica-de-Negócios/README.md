@@ -315,6 +315,8 @@ A partir dos estudos empenhados sobre Controle Estratégico, aprendemos que deve
 
 Observe a figura abaixo e reflita sobre o seu significado.  
 
+![alt](https://github.com/JefersonMelo/04-UNICSUL/blob/master/06-Semestre/02-Gestão-Estratégica-de-Negócios/images/img_II.png)
+
 ```"
 O início do controle se dá com a medição entre o desempenho apresentado, que, no momento seguinte, será comparado ao desempenho projetado ou padrões estabelecidos para aquela atividade. Caso haja equivalência entre o realizado e o projetado, o processo pode continuar, mas, caso haja discrepância entre o realizado e o projetado, ações corretivas deverão ser desenvolvidas para restabelecer o padrão inicialmente estabelecido.
 ```
