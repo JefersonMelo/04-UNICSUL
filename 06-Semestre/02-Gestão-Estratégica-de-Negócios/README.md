@@ -307,7 +307,7 @@ Assinale a alternativa CORRETA.
 É adotada pelas organizações que atuam por programas ou projetos, podendo, ainda, ser adotada por qualquer organização de forma temporária, como forma de facilitar o desenvolvimento de um novo projeto ou programa. Nesse tipo de estrutura, as unidades funcionais fornecem recursos humanos que irão atuar nos projetos e programas sob dupla coordenação: do gerente de linha e do gerente do projeto. A estrutura do projeto se posiciona transversalmente à estrutura funcional.
 ```
 
-### Controle Estratégico
+### VI Controle Estratégico
 
 #### Pergunta 1
 
