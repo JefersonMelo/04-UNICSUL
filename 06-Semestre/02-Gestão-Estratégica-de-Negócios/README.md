@@ -306,3 +306,83 @@ Assinale a alternativa CORRETA.
 ```"
 É adotada pelas organizações que atuam por programas ou projetos, podendo, ainda, ser adotada por qualquer organização de forma temporária, como forma de facilitar o desenvolvimento de um novo projeto ou programa. Nesse tipo de estrutura, as unidades funcionais fornecem recursos humanos que irão atuar nos projetos e programas sob dupla coordenação: do gerente de linha e do gerente do projeto. A estrutura do projeto se posiciona transversalmente à estrutura funcional.
 ```
+
+### Controle Estratégico
+
+#### Pergunta 1
+
+A partir dos estudos empenhados sobre Controle Estratégico, aprendemos que devemos avaliar se tudo o que foi planejado está sendo realizado a fim de alcançar os resultados desejados ou se há necessidade de correção, reavaliação, monitorando e controlando, de forma contínua, todas as estratégias.  
+
+Observe a figura abaixo e reflita sobre o seu significado.  
+
+```"
+O início do controle se dá com a medição entre o desempenho apresentado, que, no momento seguinte, será comparado ao desempenho projetado ou padrões estabelecidos para aquela atividade. Caso haja equivalência entre o realizado e o projetado, o processo pode continuar, mas, caso haja discrepância entre o realizado e o projetado, ações corretivas deverão ser desenvolvidas para restabelecer o padrão inicialmente estabelecido.
+```
+
+#### Pergunta 2
+
+Controlar significa monitorar, avaliar e melhorar as diversas atividades que são desenvolvidas em uma organização (CERTO; PETER, 2005). Isso quer dizer que o controle é um composto de acompanhamento e medições permanentes dessas atividades, a fim de avaliar constantemente a relação entre o realizado e o idealizado, podendo incluir ajustes das atividades, caso haja necessidade. De acordo com Oliveira (2015), o controle estratégico pode ser utilizado como um instrumento, servindo para diversas finalidades.  
+
+Nesse sentido, analise as assertivas a seguir, em relação à veracidade das informações (V para VERDADEIRA e F para FALSA) no que diz respeito ao Controle Estratégico.  
+
+I. Corrigir o desempenho da estratégia adotada.  
+
+II. Apontar as necessidades de alterações nas funções administrativas de planejamento, organização e direção.  
+
+III. Assegurar os ativos da empresa - financeiros, humanos, físicos, tecnológicos – contra desperdícios, furtos etc.  
+
+IV. Garantir a consecução dos objetivos, desafios e metas empresariais.  
+
+V. Identificar se os projetos, planos de ações, estão sendo desenvolvidos de forma eficaz e eficiente.  
+
+VI. Verificar se todos os recursos estão sendo utilizados de maneira adequada.  
+
+As assertivas I, II, III, IV, V e VI são RESPECTIVAMENTE:
+
+```"
+V, V, V, V, V, V.
+```
+
+#### Pergunta 3
+
+Aprendemos que é importante que nos lembremos de estarmos atentos aos níveis de controle que devem ser considerados quando falamos de gestão estratégica de negócios. Um desses níveis de controle diz respeito ao controle do processo de gestão estratégica; o segundo considera o controle dos resultados; e terceiro nível irá procurar identificar a qualidade dos objetivos e metas estabelecidas, bem como a qualidade das estratégias propostas.  
+
+Em relação ao controle do processo de gestão estratégica, analise as assertivas a seguir.  
+
+I. Verificar se cada uma das fases ou etapas do processo está sendo desenvolvida de forma adequada.  
+
+II. Verificar a proporção entre o realizado e o planejado, a partir da comparação dos objetivos frente às estratégias implementadas.  
+
+III. Verificar se as pessoas estão desenvolvendo todas as atividades previstas.  
+
+IV. Verificar se todas as fases do processo de gestão estratégica estão sendo eficientemente desenvolvidas.  
+
+V. Verificar se todas as atividades estão sendo bem feitas.  
+
+É CORRETO o que se afirma APENAS em:  
+
+```"
+I, III, IV e V.
+```
+
+#### Pergunta 4
+
+São várias as finalidades apontadas para o controle estratégico. Certo e Peter (2010, p. 139) apontam a de “ajudar a alta administração a atingir as metas organizacionais, monitorando e avaliando o processo de administração estratégica”. Durante os estudos sobre o assunto, aprendemos sobre outras finalidades para o controle estratégico.  
+
+Analise as assertivas a seguir em relação à sua veracidade (V para VERDADEIRA e F para FALSA) no que diz respeito ao Controle Estratégico.  
+
+I. Identificar problemas, falhas e erros que se transformam em desvios do planejado, com a finalidade de corrigi-los e de evitar sua reincidência.  
+
+II. Fazer com que os resultados obtidos com a realização das operações estejam, tanto quanto possível, próximos dos resultados esperados e possibilitem o alcance dos desafios e consecução dos objetivos.  
+
+III. Verificar se as estratégias e políticas estão proporcionando os resultados esperados, dentro das situações existentes e previstas.  
+
+IV. Medir o desempenho da empresa em comparação com padrões quantitativos previamente estabelecidos, haja vista que sua concentração de atuação incide no ambiente interno da organização.  
+
+V. Proporcionar informações gerenciais periódicas, para que seja rápida a intervenção no desempenho do processo.  
+
+As assertivas I, II, III, IV e V são RESPECTIVAMENTE:  
+
+```"
+V, V, V, F, V.
+```
