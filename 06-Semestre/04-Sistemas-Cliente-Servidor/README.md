@@ -69,3 +69,37 @@ Qual a definição de Socket?
 ```"
 É um serviço de transporte que permite a comunicação através do protocolo TCP entre clientes e servidores. Cliente e servidor possuem seu socket que irá possibilitar uma conexão fim a fim.
 ```
+
+### III Tecnologias Cliente Servidor na Internet
+
+ #### Pergunta 1
+
+Onde podemos utilizar a linguagem PHP?  
+
+```"
+O PHP pode ser utilizado em e-commerce, páginas pessoais, sistemas de intranet e em gerenciamento de banco de dados.
+```
+
+#### Pergunta 2
+
+Como a Python trabalha com declaração de variáveis?  
+
+```"
+Python não necessita que declaremos variáveis como pré-antecedentes de programação, a declaração de variáveis ocorre de forma dinâmica e bem intuitiva ao programador.
+```
+
+#### Pergunta 3
+
+Quais são as duas principais características do .NET?  
+
+```"
+A primeira é facilitar o trabalho do desenvolvedor tornando a construção do projeto prática, atendendo a qualquer necessidade do cliente. A segunda é se estabelecer como uma solução viável no ambiente de Web Service.
+```
+
+#### Pergunta 4
+
+O que é Python?
+
+```"
+De código aberto e disponível para vários sistemas operacionais, Python tem a característica de ser interpretada, pois não necessita ser compilada, ou seja, traduzida para linguagem de máquina, ela apenas precisa ser lida por um interpretador.
+```
