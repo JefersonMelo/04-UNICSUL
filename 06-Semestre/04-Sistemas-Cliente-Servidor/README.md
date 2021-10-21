@@ -103,3 +103,37 @@ O que é Python?
 ```"
 De código aberto e disponível para vários sistemas operacionais, Python tem a característica de ser interpretada, pois não necessita ser compilada, ou seja, traduzida para linguagem de máquina, ela apenas precisa ser lida por um interpretador.
 ```
+
+### IV Programação de Aplicações Cliente Servidor na WEB com JSP
+
+#### Pergunta 1
+
+Qual opção abaixo é um diretiva include?  
+
+```"
+<%@ include file= boas_vindas.html %>
+```
+
+#### Pergunta 2
+
+O que são Servlets?  
+
+```"
+Servidor que interpreta códigos Java contidos em um JSP.
+```
+
+#### Pergunta 3
+
+Qual é o objetivo de JSP?  
+
+```"
+JSP é baseada na tecnologia Java, porém, mais do que apenas baseada, o JSP tem por objetivo simplificar o processo de desenvolvimento para web sem deixar o dinamismo, muito procurado em sites de internet, de fora.
+```
+
+#### Pergunta 4
+
+Qual é a definição da diretiva page?  
+
+```"
+Fornecem informações sobre a página JSP ao Servlet.
+```
