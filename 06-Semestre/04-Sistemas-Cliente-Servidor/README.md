@@ -137,3 +137,37 @@ Qual é a definição da diretiva page?
 ```"
 Fornecem informações sobre a página JSP ao Servlet.
 ```
+
+### V Programação de Aplicações Cliente Servidor na Web com JSP 2
+
+#### Pergunta 1
+
+Qual opção abaixo contém elementos ligados à programação e conexão com banco de dados em JSP?  
+
+```"
+NetBeans, JDK, MySQL, JDBC, GlassFish
+```
+
+#### Pergunta 2
+
+O que é JavaScript?  
+
+```"
+Linguagem que permite a inserção de funções diretamente em páginas Web ou através da criação de arquivos separados.
+```
+
+#### Pergunta 3
+
+O que é AJAX?  
+
+```"
+Uma tecnologia que utiliza o JavaScript e o XML para desenvolver aplicações Web que tenham funcionalidades similares a uma aplicação de desktop, ou seja, local.
+```
+
+#### Pergunta 4
+
+Qual a função desta linha de programação: < input type:”button” value=”Entrar” onClick=”Login()” >?  
+
+```"
+Possibilita a criação de um botão e ainda chama a função Login() quando pressionado pelo usuário.
+```
