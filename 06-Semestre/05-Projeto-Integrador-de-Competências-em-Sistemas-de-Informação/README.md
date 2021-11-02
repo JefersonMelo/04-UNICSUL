@@ -16,7 +16,7 @@ O que se pede:
 Nele, você vai poder aprender um pouco mais sobre o Canvas. São aulas curtas e rápidas que o(a) ajudarão a fazer um documento bem consistente.
 
 1. Agora, colocaremos a sua ideia no Canvas. Ou seja, você vai passar a limpo sua ideia já mais amadurecida e rascunhada em diversos papéis até você chegar à forma ideal do negócio.  
-    - Aqui, você tem um template bem legal para usar: https://sebraecanvas.com/#/
+    - [Aqui](https://sebraecanvas.com/#/), você tem um template bem legal para usar 
 Você deverá se cadastrar e criar uma conta. Não se preocupe, é gratuito.
 Trata-se de um Canvas totalmente web, é só você se cadastrar e colocar sua ideia.  
 
