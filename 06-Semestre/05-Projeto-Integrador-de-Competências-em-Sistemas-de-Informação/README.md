@@ -9,13 +9,13 @@ O meio mais rápido e eficaz de fazermos isso é empregando o Business Model Can
 O que se pede:  
 
 1. Siga as seguintes etapas e construa o seu próprio BMC. Quanto mais precisão você tiver com o seu modelo, melhor representará o documento de visão para iniciarmos uma especificação.  
-   - Pense e selecione algum negócio de seu interesse e que você gostaria de tirar do papel. O Sebrae tem vários documentos que podem ajudá-lo(a) a montar e conhecer um negócio. Veja alguns exemplos que você pode ler e utilizar a partir de seu entendimento para modelar um BMC.
-     - [Acesse: SEBRAE. Como planejar uma loja virtual de sucesso. 2020](https://www.sebrae.com.br/sites/PortalSebrae/sebraeaz/o-planejamento-da-loja-virtual-de-sucesso,b57d55a4873c4410VgnVCM1000003b74010aRCRD). Acesso em: 07/02/2021.
+   - Pense e selecione algum negócio de seu interesse e que você gostaria de tirar do papel. O Sebrae tem vários documentos que podem ajudá-lo(a) a montar e conhecer um negócio. Veja alguns exemplos que você pode ler e utilizar a partir de seu entendimento para modelar um BMC.  
+  [Acesse: SEBRAE. Como planejar uma loja virtual de sucesso. 2020](https://www.sebrae.com.br/sites/PortalSebrae/sebraeaz/o-planejamento-da-loja-virtual-de-sucesso,b57d55a4873c4410VgnVCM1000003b74010aRCRD). Acesso em: 07/02/2021.
    - Agora que você já tece tempo para pensar sobre o negócio, convido-o(a) a fazer o Modelo Canvas. Eu coloquei um material legal para você ler, em Materiais Complementares, identificado como: Sena (2018).
    - Pode ser que você não conheça e queira aprender de forma mais detalhada sobre o Canvas para Negócios, por isso ofereço este link: [SEBRAE. Como fazer um Canvas](https://app2.pr.sebrae.com.br/trilhas-conhecimento/trilha/como-fazer-um-canvas.) Acesso em: 07/02/2021.  
 Nele, você vai poder aprender um pouco mais sobre o Canvas. São aulas curtas e rápidas que o(a) ajudarão a fazer um documento bem consistente.
 
-2. Agora, colocaremos a sua ideia no Canvas. Ou seja, você vai passar a limpo sua ideia já mais amadurecida e rascunhada em diversos papéis até você chegar à forma ideal do negócio.  
+1. Agora, colocaremos a sua ideia no Canvas. Ou seja, você vai passar a limpo sua ideia já mais amadurecida e rascunhada em diversos papéis até você chegar à forma ideal do negócio.  
     - Aqui, você tem um template bem legal para usar: https://sebraecanvas.com/#/
 Você deverá se cadastrar e criar uma conta. Não se preocupe, é gratuito.
 Trata-se de um Canvas totalmente web, é só você se cadastrar e colocar sua ideia.  
