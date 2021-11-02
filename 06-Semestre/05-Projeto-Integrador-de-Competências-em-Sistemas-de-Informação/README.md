@@ -15,7 +15,7 @@ O que se pede:
    - Pode ser que você não conheça e queira aprender de forma mais detalhada sobre o Canvas para Negócios, por isso ofereço este link: [SEBRAE. Como fazer um Canvas](https://app2.pr.sebrae.com.br/trilhas-conhecimento/trilha/como-fazer-um-canvas.) Acesso em: 07/02/2021.  
 Nele, você vai poder aprender um pouco mais sobre o Canvas. São aulas curtas e rápidas que o(a) ajudarão a fazer um documento bem consistente.
 
-1. Agora, colocaremos a sua ideia no Canvas. Ou seja, você vai passar a limpo sua ideia já mais amadurecida e rascunhada em diversos papéis até você chegar à forma ideal do negócio.  
+2. Agora, colocaremos a sua ideia no Canvas. Ou seja, você vai passar a limpo sua ideia já mais amadurecida e rascunhada em diversos papéis até você chegar à forma ideal do negócio.  
     - [Aqui](https://sebraecanvas.com/#/), você tem um template bem legal para usar 
 Você deverá se cadastrar e criar uma conta. Não se preocupe, é gratuito.
 Trata-se de um Canvas totalmente web, é só você se cadastrar e colocar sua ideia.  
