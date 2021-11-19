@@ -36,7 +36,7 @@ III - Um repositório de gestão de configuração de software é um conjunto de
 Está correto o que consta APENAS em:  
 
 ```"
-I e II somente
+II somente
 ```
 
 #### Pergunta 4
@@ -45,4 +45,38 @@ No processo de desenvolvimento de software, o gerenciamento da configuração de
 
 ```"
 em pontos predefinidos no tempo durante o ciclo de vida.
+```
+
+### II Construção de Sistemas com Qualidade
+
+#### Pergunta 1
+
+Assinale a alternativa correta. É uma técnica sistemática para construir a arquitetura do software enquanto, ao mesmo tempo, conduz testes para descobrir erros associados às interfaces. Trata-se, especificamente de:
+
+```"
+teste de integração.
+```
+
+#### Pergunta 2
+
+Em relação ao teste de software, assinale a alternativa correta a respeito do teste de integração.
+
+```"
+Visa testar as falhas decorrentes da coerência das interfaces entre os módulos do sistema
+```
+
+#### Pergunta 3
+
+Assinale a alternativa correta. No processo de teste de software, o beta teste é:
+
+```"
+realizado por clientes em seu próprio local de uso.
+```
+
+#### Pergunta 4
+
+Assinale a alternativa correta. Os testes de software são executados, usando os procedimentos e documentos de script de teste. Para que a fase de execução de teste seja realizada com sucesso, devem ser executados:
+
+```"
+os casos de teste
 ```
