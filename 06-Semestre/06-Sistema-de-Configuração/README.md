@@ -80,3 +80,47 @@ Assinale a alternativa correta. Os testes de software são executados, usando os
 ```"
 os casos de teste
 ```
+
+### III Gerenciamento de Mudanças
+
+#### Pergunta 1
+
+Os riscos e o processo de implementação desse tipo de mudança são conhecidos de antemão. Houve tempo para planejamento e há rotina de rollback, ou seja, se tudo der errado, dá para voltar. Identifique nas alternativas abaixo qual é o nome desse tipo de mudança e assinale a alternativa correta.
+
+```"
+Mudanças-padrão.
+```
+
+#### Pergunta 2
+
+O processo de mudança pode ser mapeado de diferentes formas, pois cada empresa busca a sua real necessidade dentro de um controle processual das atualizações tecnológicas. Algumas querem ter um controle maior para as mudanças emergenciais, outras querem que as mudanças rotineiras sigam um fluxo diferenciado que não requer nenhum registro, apenas uma aprovação por e-mail. Enfim, esses são apenas pequenos exemplos dentro de um mundo imenso com outras peculiaridades. Considerando o texto apresentado, avalie as informações a seguir sobre o fluxo do processo de mudança:
+
+I - Criar um formulário de requisição de mudanças é parte fundamental do GMUD.  
+
+II - Analisar o desemprenho da mudança não é fundamental uma vez que colocá-la para funcionar é o que se espera.  
+
+III - Planejar a mudança é algo não essencial, pois, uma vez passado o formulário de pedido de mudança, o planejamento já está embutido.  
+
+IV - Testar a mudança é essencial para eliminar falhas.  
+
+É correto o que se afirma em:  
+
+```"
+I e IV somente.
+```
+
+#### Pergunta 3
+
+Esse tipo de mudança indica uma crise ou oportunidade que deve ser abordada o mais rápido possível, com o mínimo de risco possível. Identifique, nas alternativas abaixo, qual é o nome desse tipo de mudança e assinale a alternativa correta.
+
+```"
+Mudanças urgentes. 
+```
+
+#### Pergunta 4
+
+Embora sejam bastante comuns, elas exigem abordagens únicas e inovadoras. Elas precisam passar por um processo regrado de mudança antes de serem aprovadas e implementadas. Identifique, nas alternativas abaixo, qual é o nome desse tipo de mudança e assinale a alternativa correta.
+
+```"
+Mudanças normais.
+```
