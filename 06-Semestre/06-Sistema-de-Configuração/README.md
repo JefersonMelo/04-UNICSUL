@@ -124,3 +124,47 @@ Embora sejam bastante comuns, elas exigem abordagens únicas e inovadoras. Elas 
 ```"
 Mudanças normais.
 ```
+
+### IV Conceitos DevOps
+
+#### Pergunta 1
+
+Qual conceito está associado a cada mudança que é realizada no código-fonte é implantada na produção automaticamente, sem a aprovação explícita de um desenvolvedor? Assinale a alternativa correta.
+
+```"
+Implantação Contínua
+```
+
+#### Pergunta 2
+
+Qual conceito está associado à capacidade de obter mudanças de todos os tipos, incluindo novas funcionalidades, alterações de configuração, correções de bugs e experimentos em produção, ou nas mãos de usuários, de forma segura e rápida de forma sustentável? Assinale a alternativa correta.
+
+```"
+Entrega Contínua
+```
+
+#### Pergunta 3
+
+DevOps é um termo criado para descrever um conjunto de práticas para integração entre as equipes de desenvolvimento de softwares, operações (infraestrutura ou sysadmin) e de apoio envolvidas (como controle de qualidade) e a adoção de processos automatizados para produção rápida e segura de aplicações e serviços. Considerando o texto apresentado, avalie as informações a seguir sobre DevOps:
+
+I - Utilizar a comunicação para integrar desenvolvedores de software e profissionais de infraestrutura de TI.  
+
+II - Utilizar a virtualização e a computação em nuvem como prática comum para acelerar a mudança no mundo da infraestrutura moderna.  
+
+III - Não se trata de metodologia, mas de velocidade na entrega somente.  
+
+IV - É ótimo para equipes iniciantes, pois irão aprender na prática de forma incremental.  
+
+É correto o que se afirma em:  
+
+```"
+I e II somente.
+```
+
+#### Pergunta 4
+
+Das frases abaixo, qual delas melhor responde à pergunta: o que é DevOps?
+
+```"
+Filosofia de desenvolvimento de software que prioriza a colaboração e a integração contínua, e busca ferramentas que promovam vantagem para a automação da configuração da infraestrutura e desenvolvimento.
+```
