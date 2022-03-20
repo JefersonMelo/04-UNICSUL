@@ -47,3 +47,69 @@ De acordo com esta informação e com o conteúdo estudado, é um exemplo de tes
 ```Text
 Teste de integração
 ```
+
+### DevOps e Teste Automatizado
+
+#### PERGUNTA 1
+
+Existem vários tipos diferentes de testes, dentre eles, o ________________, que é a medição de como um sistema se comporta sob uma carga de trabalho crescente (número de usuários e volumes de dados), teste de carga, que verifica se o sistema pode operar no nível necessário de tempo de resposta quando submetido a sua carga esperada, e o teste de estresse, que está encontrando o ponto de falha no sistema quando a carga testada excede o que ele pode suportar.  
+
+Considerando as informações apresentadas e os conteúdos estudados, marque a alternativa que, corretamente, apresenta o tipo de teste descrito no texto.  
+
+```Text
+teste de desempenho 
+```
+
+#### PERGUNTA 2
+
+teste de automação é uma técnica de teste de software para testar e comparar o resultado real com o resultado esperado. Isso pode ser alcançado escrevendo scripts de teste ou usando qualquer ferramenta de teste de automação.  
+
+A automação de teste é usada para:  
+
+```Text
+automatizar tarefas repetitivas e outras tarefas de teste que são difíceis de executar manualmente. 
+```
+
+#### PERGUNTA 3
+
+Leia atentamente o texto a seguir:  
+
+Uma coisa é criar casos de teste valiosos desde o início. No entanto, escrever casos de teste com longevidade é a recompensa final. Ao criar casos de teste, é importante pensar sobre o impacto do tempo. Também deve haver atenção ao risco associado a um teste e a um defeito. Um engenheiro de teste terá um processo para calcular o risco como uma probabilidade de que um problema ocorrerá e como isso afetaria aos clientes. Estes são dois critérios a serem considerados ao aplicarmos testes automatizados.  
+
+De acordo com esta informação e com o conteúdo estudado, marque a alternativa que apresenta a sequência correta das etapas do teste automatizado:  
+
+```Text
+seleção da ferramenta - definição do escopo - planejamento, desenvolvimento e design - execução do teste - manutenção  
+```
+
+#### PERGUNTA 4
+
+De acordo com o relatório de custo de uma violação de dados de 2021 mais recente da IBM, com pesquisa do Ponemon Institute, os custos de violação de dados aumentaram de US$ 3,86 milhões para US$ 4,24 milhões, o maior custo total médio na história de 17 anos deste relatório. Isso nem inclui a pressão de cumprir - ou perder - as datas de lançamento. À medida em que os estágios de desenvolvimento de software progridem, o custo de resolver quaisquer bugs descobertos também aumenta, muitas vezes de forma exponencial.  
+
+Fonte: IBM. How much does a data breach cost?. Disponível em: [IBM Data Breach](https://www.ibm.com/security/data-breach). Acesso em: 21 out. 2021.  
+
+A partir da leitura do fragmento acima e considerando os conteúdos estudados na disciplina, analise as afirmativas a seguir:  
+
+I. O Shift Left é uma metodologia que tem o objetivo de descobrir e resolver problemas o mais cedo possível.  
+
+II. A indústria de software compreendeu que é mais fácil e barato consertar bugs detectados no fim do processo de desenvolvimento.  
+
+III. As políticas de segurança são um bom primeiro passo para o teste shift left, afinal, estas podem definir limites de forma automática.  
+
+Está correto apenas o que se afirma em:  
+
+```Text
+I e III.
+```
+
+#### PERGUNTA 5
+
+Considere o seguinte caso:  
+
+Uma empresa possui uma equipe de QA (garantia de qualidade) com 5 profissionais. Todos eles estão envolvidos em um projeto de grande porte cuja primeira versão deve ser entregue em poucos dias ao cliente. Neste momento, a equipe de QA deve realizar um teste que consiste em testar métodos e funções individuais das classes, componentes ou módulos usados ​​pelo software. Este tipo de teste é mais barato para automatizar e pode ser executado muito rapidamente.  
+
+Considerando as informações apresentadas e os conteúdos estudados, marque a alternativa que, corretamente, apresenta o tipo de teste que será utilizado por eles.  
+
+```Text
+teste unitário
+```
