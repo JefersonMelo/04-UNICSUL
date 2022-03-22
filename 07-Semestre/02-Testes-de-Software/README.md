@@ -113,3 +113,61 @@ Considerando as informações apresentadas e os conteúdos estudados, marque a a
 ```Text
 teste unitário
 ```
+
+### Testes Automatizados: Ferramentas
+
+
+
+### Cobertura de Testes Automatizados
+
+#### PERGUNTA 1
+
+Leia atentamente o texto a seguir:  
+
+O teste de software possui uma técnica em que um testador se certifica de que os novos recursos não quebraram nenhuma funcionalidade existente. Seu objetivo é garantir que a funcionalidade previamente desenvolvida e testada ainda funcione após a adição de um novo código. Quando um testador executa este tipo de teste utilizando ferramentas automatizadas, isso é conhecido como:  
+
+```Text
+teste de regressão automatizado. 
+```
+
+#### PERGUNTA 2
+
+Leia com atenção o texto a seguir:  
+
+Considere qualquer site de compras online, onde cada produto deve ter um nome e ID de produto específicos. Os usuários podem pesquisar usando o nome do produto ou a ID do produto. Aqui, você pode considerar um conjunto de produtos com IDs de produto e deseja verificar se há laptops.  
+
+Considerando a informação apresentada e o conhecimento adquirido durante seus estudos, analise as asserções a seguir e a relação proposta entre elas.  
+
+I. Considerando o ID do laptop sendo 56 (valor válido), pela análise do valor limite, devem ser testados os valores 55, 56 e 57.  
+
+por que  
+
+II. A análise de valor de limite é uma técnica de teste de caixa preta usada para verificar os erros nos limites de um domínio de entrada.  
+
+```Text
+As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I. 
+```
+
+#### PERGUNTA 3
+
+Leia com atenção o texto a seguir:  
+
+Quando se trata de teste de automação de software, a cobertura é uma métrica que deve ser considerada prioritária. A cobertura de código e a cobertura de teste são duas métricas vitais que ajudam a verificar a eficácia do código. Uma grande parte do público de teste usa cobertura de código e cobertura de teste de forma intercambiável. No entanto, o fato é que há uma diferença significativa entre a cobertura de código e a cobertura de teste.  
+
+Considerando as informações apresentadas e os conteúdos estudados, marque a alternativa que, corretamente apresenta formas de cobertura de código.  
+
+```Text
+Cobertura condicional e cobertura de loop. 
+```
+
+#### PERGUNTA 4
+
+Analise o texto a seguir:  
+
+No teste de software, o termo cobertura de teste refere-se a quanto da funcionalidade de um aplicativo é coberta pelos casos de teste. Na prática, o termo também costuma se referir à eficácia desse teste.  
+
+Existem muitas métricas de cobertura de teste, entre elas temos:  
+
+```Text
+métrica de nível de recurso
+```
