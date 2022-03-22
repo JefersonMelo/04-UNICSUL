@@ -116,7 +116,71 @@ teste unitário
 
 ### Testes Automatizados: Ferramentas
 
+#### PERGUNTA 1
 
+Leia atentamente as informações contidas nas colunas A e B para, em seguida, assinalar a alternativa que reúne as correspondências CORRETAS entre as informações nestas contidas.  
+
+Coluna A:  
+
+Nível 1.  
+
+Nível 2.  
+
+Nível 3.  
+
+Coluna B:  
+
+Chamado de teste de integração, de modo que os diferentes tipos de teste deste nível são o big-bang, top-down e bottom-up.  
+
+Chamado de teste de ponta a ponta, sendo usado para testar o aplicativo totalmente integrado.  
+
+Chamado de teste de unidade, sendo usado para verificar os módulos individualmente.  
+
+A sequência CORRETA desta associação é:  
+
+```Text
+I-3; II-1; III-2. 
+```
+
+#### PERGUNTA 2 Não Respondi Corretamente
+
+Escolher as ferramentas certas é crucial para a automação de teste. Claramente, o teste de automação é a maneira mais eficaz de aumentar a eficiência e eficácia do aplicativo de software, mas trabalhar com as ferramentas erradas pode afetar adversamente o processo geral. As escolhas que você fizer determinarão a capacidade da sua organização de fornecer aplicativos e serviços em alta velocidade. Existem muitas ferramentas de automação de teste disponíveis no mercado, dentre elas temos o:  
+
+a.QuickTest, ideal para realizar testes de unidade e de Interface do Usuário (UI).  
+
+b.JMeter e Mentimeter, respectivamente para Java e aplicativos web.  err
+
+c.Appium e SoapUI, sendo que a primeira é para aplicativos nativos da Apple e a segunda para interface web  err
+
+d.JUnit que, assim como o Selenium, dedica-se à linguagem Java.  err
+
+```Text
+Selenium, para desenvolvimento de aplicações web.  
+```
+
+#### PERGUNTA 3 ANULADA Sem Resposta Definida
+
+Os testes funcionais, também conhecidos como testes de caixa-preta, é uma validação de software na qual determinada funcionalidade é verificada, sem levar em conta a estrutura do código-fonte, os detalhes de implementação ou os cenários de execução. Nos testes de caixa-preta, o foco é apenas as entradas e saídas do sistema, sem se preocupar com a estrutura interna do programa. (SOARES, J. Principais técnicas de testes funcionais. TreinaWeb, [2021]. Disponível em: <https://www.treinaweb.com.br/blog/principais-tecnicas-de-testes-funcionais>. Acesso em: 01/01/2022)  
+
+Diante do exposto, quais são os tipos mais conhecidos de testes funcionais?  
+
+a. Segurança e fumaça.  
+
+b. Escalabilidade e beta.  
+
+c. Unidade e sanidade.  
+
+d. Regressão e desempenho.  
+
+e. Integração e usabilidade.  
+
+#### PERGUNTA 4
+
+Teste de software possui uma técnica em que um testador se certifica de que os novos recursos não quebraram nenhuma funcionalidade existente. Seu objetivo é garantir que a funcionalidade previamente desenvolvida e testada ainda funcione após a adição de um novo código. Quando um testador executa este tipo de teste utilizando ferramentas automatizadas, isto é conhecido como teste de:  
+
+```Text
+regressão automatizado. 
+```
 
 ### Cobertura de Testes Automatizados
 
