@@ -235,3 +235,49 @@ Existem muitas métricas de cobertura de teste, entre elas temos:
 ```Text
 métrica de nível de recurso
 ```
+
+### Testes Funcionais
+
+#### PERGUNTA 1
+
+Leia atentamente o texto a seguir:  
+
+O termo “teste de usabilidade” refere-se à avaliação de um sistema interativo testando-o com usuários representativos. Normalmente, durante um teste, os participantes tentam concluir tarefas típicas, enquanto os observadores assistem, ouvem e fazem anotações. Existem diversos tipos de testes, entre os quais, podemos destacar os moderados e os não moderados.  
+
+Considerando essas informações e os conteúdos estudados sobre teste funcional, analise as asserções a seguir e a relação proposta entre elas.  
+
+I. Testes moderados oferecem mais controle sobre o teste e sobre os usuários.  
+
+Porque  
+
+II. A técnica de teste moderado geralmente é mais rápida e barata que os testes não moderados.  
+
+A seguir, assinale a alternativa correta:  
+
+```Text
+A asserção I é uma proposição verdadeira, e a II é uma proposição falsa. 
+```
+
+#### PERGUNTA 2
+
+Leia o excerto a seguir:  
+
+“Com o objetivo de definir o conceito abstrato de ‘usabilidade’ em termos de seus componentes mais precisos e mensuráveis, nós podemos chegar a uma disciplina de engenharia, na qual a usabilidade não é simplesmente discutida, mas é sistematicamente aproximada, aperfeiçoada e avaliada (possivelmente mensurada).”  
+
+Fonte: NIELSEN, J. Usability Engineering. São Francisco: Morgan Kaufmann, 1993. (Tradução do conteudista).  
+
+De acordo com essas informações e os conteúdos estudados sobre testes de usuário, assinale a alternativa que apresenta um benefício do teste não moderado:  
+
+```Text
+O teste não moderado permite testar usuários simultaneamente e a qualquer hora e local. 
+```
+
+#### PERGUNTA 3
+
+O teste de caixa preta é um dos tipos mais comuns de teste em que um analista de negócios ou de sistemas participará. Os casos de teste são desenvolvidos a partir da especificação dos requisitos do software. Esses casos afirmam que, para um determinado conjunto de entradas, um conjunto específico de saídas deve ser retornado ou que um resultado específico deve ocorrer.  
+
+De acordo com essas informações e os conteúdos estudados, assinale a alternativa que apresenta, corretamente, uma vantagem do teste de caixa preta:
+
+```Text
+Os casos de teste podem ser projetados assim que as especificações estiverem completas.
+```
