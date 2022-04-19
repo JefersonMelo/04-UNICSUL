@@ -77,3 +77,38 @@ Qual o maior erro na hora de marcar presença no LinkedIn?
 ```Text
 Replicar conteúdo sem planejamento e estratégia prévia, para simplesmente interagir na plataforma.
 ```
+
+### III - Atividade de Fixação
+
+#### PERGUNTA 1
+
+O LinkedIn oferece a oportunidade de falarmos com qualquer pessoa no mundo e de adquirirmos uma nova forma de pensar e agir?  
+
+```Text
+Sim, de se conectar com pessoas do mundo inteiro e pensar “fora da caixa”. 
+```
+
+#### PERGUNTA 2
+
+Durante a videoaula de explicação deste módulo, a Prof.ª Marcela comentou que no Painel (na página inicial do seu perfil) aparecerá uma nomenclatura classificativa referente ao nível de preenchimento do perfil. Quais são os níveis?  
+
+```Text
+Iniciante, Intermediário e Campeão
+```
+
+#### PERGUNTA 3
+
+Quais são os benefícios para a empresa que utiliza os recursos do LinkedIn?  
+
+```Text
+Processos seletivos mais ágeis, menos custos, fortalecimento da marca da empresa e novos negócios proporcionados pela interação da área comercial com a plataforma, utilizando-a como prospecção.
+```
+
+#### PERGUNTA 4
+
+A afirmação de Gustavo: “O LinkedIn para muitos é apenas mais uma rede social, mas com foco de busca de emprego, como se representasse um repositório de currículos virtuais” é verdadeira? 
+
+```Text
+Não, é apenas uma percepção geral de Gustavo perante a opinião pública sobre a rede social.
+```
+
