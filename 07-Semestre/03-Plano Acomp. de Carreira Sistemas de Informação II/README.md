@@ -44,4 +44,36 @@ O que é uma crença?
 Crença é algo já fixado dentro da sua mente e que molda seu mindset. É algo preestabelecido, já testado. 
 ```
 
+### II - Atividade de Fixação
 
+#### PERGUNTA 1
+
+Quais são os itens que elucidam Credibilidade no LinkedIn, por Denise Maia?  
+
+```Text
+Foto, foto de capa, título, URL, competências e recomendações. 
+```
+
+#### PERGUNTA 2
+
+Para construir uma boa rede de relacionamento, qual é a pergunta que devemos nos fazer ao criar o perfil no LinkedIn?  
+
+```Text
+Por que estou no LinkedIn? Quais são meus objetivos? 
+```
+
+#### PERGUNTA 3
+
+Como iniciar um relacionamento no LinkedIn?  
+
+```Text
+Agradeça à nova conexão com uma mensagem de próprio punho, apresente-se, diga o que você faz profissionalmente e não faça pedidos de ajuda logo no primeiro contato. 
+```
+
+#### PERGUNTA 4
+
+Qual o maior erro na hora de marcar presença no LinkedIn?  
+
+```Text
+Replicar conteúdo sem planejamento e estratégia prévia, para simplesmente interagir na plataforma.
+```
