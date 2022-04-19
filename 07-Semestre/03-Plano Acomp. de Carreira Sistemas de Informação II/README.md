@@ -112,3 +112,6 @@ A afirmação de Gustavo: “O LinkedIn para muitos é apenas mais uma rede soci
 Não, é apenas uma percepção geral de Gustavo perante a opinião pública sobre a rede social.
 ```
 
+### IV - Atividade de Fixação
+
+### V - Atividade de Fixação
