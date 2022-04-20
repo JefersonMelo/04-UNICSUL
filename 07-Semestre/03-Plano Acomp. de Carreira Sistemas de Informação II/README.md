@@ -1,6 +1,6 @@
 # Plano de Acompanhamento de Carreira em Sistemas de Informação II
 
-## Respostas aos Questionários Gerência de Configuração
+## Respostas aos Questionários
 
 ### I - Atividade de Fixação
 
