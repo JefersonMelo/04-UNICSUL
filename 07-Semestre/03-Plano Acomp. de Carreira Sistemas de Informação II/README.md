@@ -159,3 +159,43 @@ Assinale a alternativa que completa CORRETAMENTE a lacuna.
 ```
 
 ### V - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Como usar a rede da melhor forma?  
+
+```Text
+Preencha todo o seu perfil; interaja com as pessoas; planeje seu conteúdo.
+```
+
+#### PERGUNTA 2
+
+De acordo com nossa aula (Unidade 5), quantas empresas estão no LinkedIn (rede) buscando talentos, fomentando negócios e networking?  
+
+```Text
+cerca de 30 milhões. 
+```
+
+#### PERGUNTA 3
+
+A quantos itens devemos nos atentar no checklist do LinkedIn ao criar e/ou otimizar nosso perfil na rede?  
+
+```Text
+19
+```
+
+#### PERGUNTA 4
+
+Quantas contas Premium o LinkedIn possui aos usuários?  
+
+```Text
+São quatro contas Premium disponíveis (Carreira Premium; Negócio Premium; Sales Navigator Pro; Recrutador Lite)
+```
+
+#### PERGUNTA 5
+
+O que é o LinkedIn Learning?  
+
+```Text
+É uma plataforma, dentro do próprio LinkedIn, que disponibiliza cursos e vídeos sobre os mais variados temas para desenvolvimento pessoal e profissional dos usuários da rede. 
+```
