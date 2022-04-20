@@ -114,4 +114,48 @@ Não, é apenas uma percepção geral de Gustavo perante a opinião pública sob
 
 ### IV - Atividade de Fixação
 
+#### PERGUNTA 1
+
+Durante a expansão da rede no Brasil (de acordo com a matéria publicada na revista IstoÉ Dinheiro, Milton Beck, diretor geral do Linkedin para o Brasil e América Latina afirma que nos tornamos o quarto mercado consumidor do LinkedIn, ficando atrás somente dos países:  
+
+```Text
+Estados Unidos, China e Índia. 
+```
+
+#### PERGUNTA 2
+
+De acordo com o texto de Lilian Sanches, para aumentar a visibilidade do perfil no LinkedIn, devemos seguir três regras básicas. Quais são elas?  
+
+```Text
+Capriche na ortografia, seja honesto(a) e cuide de sua imagem. 
+```
+
+#### PERGUNTA 3
+
+ Em 2021, o LinkedIn alcançou a marca de _____ milhões de usuários no mundo. 
+
+Assinale a alternativa que completa CORRETAMENTE a lacuna.  
+
+```Text
+660
+```
+
+#### PERGUNTA 4
+
+Durante a videoaula deste módulo, a Prof.ª Marcela comentou sobre os benefícios da conta Premium Career para quem está em busca de uma Recolocação Profissional e como o LinkedIn pode ajudar especificamente nesse momento profissional. Quais são eles?  
+
+```Text
+Candidato em destaque, créditos de InMails disponíveis por mês para enviar mensagens diretas aos recrutadores e possuir uma visão completa de quem visitou seu perfil nos últimos dias.
+```
+
+#### PERGUNTA 5
+
+Em 2021, no Brasil, completamos ____ milhões de usuários conectados na rede (LinkedIn). 
+
+Assinale a alternativa que completa CORRETAMENTE a lacuna.  
+
+```Text
+40
+```
+
 ### V - Atividade de Fixação
