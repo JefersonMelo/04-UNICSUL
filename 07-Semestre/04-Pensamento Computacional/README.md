@@ -157,3 +157,53 @@ As afirmações I, II e III são, RESPECTIVAMENTE:
 ```Text
 V, F, V.
 ```
+
+### III - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Leia atentamente as seguintes afirmativas sobre conceitos da ferramenta Scratch, pontuando V para Verdadeiro ou F para Falso:  
+
+I. Para movimentar um ator para a direção “esquerda”, podemos utilizar o comando “mova” e o comando “aponte para a direção “90”;  
+
+II. O comando “mude ao efeito cor”, altera a cor do ator;  
+
+III. O comando “próxima fantasia” é responsável por alterar a imagem de nosso ator.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+F, V, V.
+```
+
+#### PERGUNTA 2
+
+Leia atentamente as seguintes afirmativas sobre conceitos da ferramenta Scratch, pontuando V para Verdadeiro ou F para Falso:  
+
+I. Podemos criar um novo bloco no Scratch; para isso basta clicar no botão “Bloco novo”, na aba Controle.  
+
+II. Ao criar um novo Bloco no Scratch, temos a possibilidade de criar um Bloco com a opção de entrada de números ou texto.  
+
+III. A aba Caneta não está disponível por padrão no Scratch.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+F, V, V.
+```
+
+#### PERGUNTA 3
+
+Leia atentamente as seguintes afirmativas sobre conceitos da ferramenta Scratch, pontuando V para Verdadeiro ou F para Falso:  
+
+I. O comando “próxima fantasia” é responsável por alterar o cenário do ator.  
+
+II. Para movimentar um ator para a direção “direita”, podemos utilizar o comando “mova” e o comando “aponte para a direção “-90”.  
+
+III. O comando “quando a tecla for pressionada” é acionado quando uma tecla “seta para direita” é pressionada.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+F, F, F.
+```
