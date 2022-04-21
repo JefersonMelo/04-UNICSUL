@@ -207,3 +207,5 @@ As afirmações I, II e III são, RESPECTIVAMENTE:
 ```Text
 F, F, F.
 ```
+
+### IV - Atividade de Fixação
