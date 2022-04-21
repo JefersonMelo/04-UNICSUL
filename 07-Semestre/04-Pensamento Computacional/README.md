@@ -68,4 +68,92 @@ III – O processo de identificar as tendências dos dados estatísticos é um e
 V, F, F.
 ```
 
+### II - Atividade de Fixação
 
+#### PERGUNTA 1
+
+Leia atentamente as informações contidas nas Colunas A e B para, em seguida, assinalar a alternativa que reúne as correspondências CORRETAS entre as informações nelas contidas.  
+
+**Coluna A**  
+
+I. Ideias  
+
+II. Explorar  
+
+III. Buscar  
+
+**Coluna B**  
+
+1. Esse menu busca Projetos compartilhados.  
+
+2. Essa página exibe uma série de tutoriais Scratch.  
+
+3. Esse menu dá acesso à página com Projetos compartilhados por usuários da comunidade Scratch.  
+
+```Text
+I-2; II-3; III-1
+```
+
+#### PERGUNTA 2
+
+Leia atentamente as seguintes afirmativas sobre abstração, pontuando V para Verdadeiro ou F para Falso:  
+
+I. Um processo passo a passo que resolve um problema.  
+
+II. Processo que remove todos os detalhes específicos.  
+
+III. Permite criar uma ideia geral de qual é o problema.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+F, V, V.
+```
+
+#### PERGUNTA 3
+
+Com base na atividade Abstração: Contando os pontos, assinale a alternativa CORRETA para a conversão do número binário 10111 para decimal.  
+
+```Text
+23
+```
+
+#### PERGUNTA 4
+
+Ao explorar a plataforma Scratch, podemos notar a presença dos Blocos de Comando. Esses Blocos estão ordenados em categorias. Cada categoria possui um Conjunto de Blocos de Comandos.  
+
+```Text
+Movimento, Aparência, Som, Eventos, Controle, Sensores, Operacionais e Variáveis.
+```
+
+#### PERGUNTA 5
+
+Leia atentamente as seguintes afirmativas sobre Reconhecimento de Padrões, pontuando V para Verdadeiro ou F para Falso:  
+
+I. É a capacidade de notar semelhanças ou diferenças comuns em dados que nos ajudarão a fazer previsões ou nos levar por meio de um caminho mais curto a uma solução.  
+
+II. Remove todos os detalhes específicos, e quaisquer padrões que não nos ajudem a resolver nosso problema.  
+
+III. Uma maneira que nos ajuda a resolver rapidamente novos problemas com base em soluções e experiências anteriores.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+V, F, V.
+```
+
+#### PERGUNTA 6
+
+Leia atentamente as seguintes afirmativas sobre abstração, pontuando V para Verdadeiro ou F para Falso:  
+
+I. É sobre simplificar as coisas, permitindo-nos gerenciar a complexidade e tornar as coisas mais fáceis de fazer.  
+
+II. A abstração nos permite criar uma ideia específica de qual é o problema e como resolvê-lo.  
+
+III. Remove todos os detalhes específicos, e quaisquer padrões que não nos ajudem a resolver nosso problema.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+V, F, V.
+```
