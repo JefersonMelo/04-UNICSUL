@@ -209,3 +209,36 @@ F, F, F.
 ```
 
 ### IV - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Leia atentamente as seguintes afirmativas sobre algoritmos e procedimentos, pontuando V para VERDADEIRO ou F para FALSO:  
+
+I. É sobre simplificar as coisas, permitindo-nos gerenciar a complexidade e tornar as coisas mais fáceis de fazer;  
+
+II. Habilidade em dividir uma grande tarefa em pequenas tarefas;  
+
+III. É um processo que descreve de forma detalhada o passo a passo para a solução de uma tarefa ou problema.  
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+F, F, V
+```
+
+#### PERGUNTA 2
+
+Lei atentamente as seguintes afirmativas sobre decomposição de problemas, pontuando V para VERDADEIRO ou F para FALSO:
+
+I. Frequentemente nos leva ao reconhecimento e a generalização de padrões;
+
+II. Permite criar uma ideia específica de qual é o problema e como resolvê-lo;
+
+III. É sobre simplificar as coisas, permitindo-nos gerenciar a complexidade e tornar as coisas mais fáceis de fazer.
+
+As afirmações I, II e III são, RESPECTIVAMENTE:  
+
+```Text
+V, F, F
+```
+
