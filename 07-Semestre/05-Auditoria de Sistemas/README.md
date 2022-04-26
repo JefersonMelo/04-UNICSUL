@@ -44,3 +44,40 @@ Escolha dentre as alternativas a seguir a que melhor se adequa ao conceito citad
 Auditoria Interna.
 ```
 
+### II - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Sêmola (2003) afirma que ____________ é uma área do conhecimento dedicada à proteção de ativos da informação contra acessos não autorizados, alterações indevidas ou sua indisponibilidade.  
+
+Escolha a alternativa que completa de forma correta a lacuna:  
+
+```Text
+Segurança da informação.
+```
+
+#### PERGUNTA 2
+
+Segundo Krutz e Vines (2003), os princípios básicos de segurança da informação são compostos por uma tríade e, quando aplicados, propiciam o controle e são o alicerce para a proteção de um sistema de informação. Escolha entre as alternativas a seguir quais princípios formam essa tríade.  
+
+```Text
+Confidencialidade, integridade, disponibilidade.
+```
+
+#### PERGUNTA 3
+
+Ela pode ser entendida como uma fragilidade dentro de um sistema de informação, que o deixa suscetível a ataques e que pode ser explorada por uma ou mais ameaças, causando problemas para o sistema. Por exemplo: programas desatualizados.  
+
+A qual conceito a afirmação acima se refere?  
+
+```Text
+Vulnerabilidade
+```
+
+#### PERGUNTA 4
+
+O processo de análise de riscos é composto por diversas etapas. O reconhecimento dos riscos é uma dessas etapas, o qual tem o objetivo de identificar o fato que decorreria da exploração de uma vulnerabilidade. Nessa etapa, categorizamos os riscos em:  
+
+```Text
+Humanos, tecnológicos, organizacionais e ambientais.
+```
