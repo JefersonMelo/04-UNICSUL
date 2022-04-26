@@ -81,3 +81,31 @@ O processo de análise de riscos é composto por diversas etapas. O reconhecimen
 ```Text
 Humanos, tecnológicos, organizacionais e ambientais.
 ```
+
+### III - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Nela também estão especificadas as atribuições e responsabilidade de todos os funcionários, inclusive os usuários finais, o pessoal de sistemas e também da alta direção, com relação à segurança dos recursos com os quais manipulam e trabalham. _________________________________________ deve ser idealizada por normas delineadas baseando-se no grau de status, isto é da hierarquia funcional. Quanto menor o nível de hierarquia dentro da corporação, maior deve ser o seu detalhamento. Escolha entre as alternativas seguintes, a opção que complete a frase de forma correta.  
+
+```Text
+A Politica de Segurança.
+```
+
+### PERGUNTA 2
+
+“O objetivo deste tipo de auditoria é verificar a avalizar os controles de acesso lógico. Basicamente ela é composta por um conjunto de regras/procedimentos e ações com o intuito de garantir e assegurar a integridade dos dados/informações, programas e sistemas contra as possibilidades e tentativas de acesso não autorizados feitos por indivíduos ou por outros softwares de computador. Podemos analisar o controle de acesso lógico de dois modos distintos. O primeiro enfoque é a proteção dos recursos computacionais e sistemas aplicativos, através de invasões indevidas realizadas pelos hackers. O segundo é o usuário a quem são cedidos determinadas prerrogativas e acesso aos recursos. Nessa segunda opção, a proteção aos recursos computacionais baseia-se nas necessidades de acesso de cada usuário, com relação a identificação e autenticação a qual é feita através de um ID e uma senha cadastrada fornecida para o usuário. Concluindo, esse tipo de auditoria têm como objetivo verificar a proteção dos aplicativos e arquivos de dados contra perda, modificação ou divulgação não autorizada”.  
+Escolha dentre as alternativas a seguir, a que melhor se adequa ao conceito citado.  
+
+```Text
+Auditoria de Segurança Lógica
+```
+
+### PERGUNTA 3
+
+“Segurança da Informação é a proteção da informação de vários tipos de ameaças para garantir a continuidade do negócio, minimizar o risco ao negócio, maximizar o retorno sobre os investimentos e as oportunidades de negócio”. Essa definição publicada em outubro de 2005, pela ABNT corresponde a norma:  
+
+```Text
+ABNT NBR ISO/IEC 27002:2005.
+```
+
