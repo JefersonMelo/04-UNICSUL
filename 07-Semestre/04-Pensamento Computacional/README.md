@@ -1,4 +1,4 @@
-# Penisamento Computacional
+# Pensamento Computacional
 
 ## Respostas aos Questionários Penisamento Computacional
 
