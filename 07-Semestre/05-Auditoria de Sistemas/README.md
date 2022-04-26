@@ -4,7 +4,6 @@
 
 ### I - Atividade de Fixação
 
-
 #### PERGUNTA 1
 
 . “[...] é um processo sistemático que busca avaliar objetivamente uma situação com base em critérios a ela aplicáveis, e relatar os resultados dessa avaliação. Uma característica desse processo é que ele envolve a obtenção e o tratamento de dados e informações relacionadas à situação examinada e aos critérios de auditoria aplicáveis”.  
@@ -15,7 +14,6 @@ Essa definição corresponde a:
 Auditoria
 ```
 
-
 #### PERGUNTA 2
 
 Com a finalidade de não se desviar das normas pré-estabelecidas, deve haver um controle – que nada mais é do que a fiscalização, monitoração e exame minucioso – que obedecerá a determinadas expectativas, normas, convenções sobre as atividades dos órgãos, das pessoas ou ainda sobre os produtos. Classificamos os tipos de controle da auditoria em três segmentos, escolha entre as alternativas seguintes a opção correta que identifica esses três controles:  
@@ -23,7 +21,6 @@ Com a finalidade de não se desviar das normas pré-estabelecidas, deve haver um
 ```Text
 Controle Preventivo, Controle Detectivo, Controle Corretivo.
 ```
-
 
 #### PERGUNTA 3
 
@@ -47,4 +44,3 @@ Escolha dentre as alternativas a seguir a que melhor se adequa ao conceito citad
 Auditoria Interna.
 ```
 
-### I - Atividade de Fixação
