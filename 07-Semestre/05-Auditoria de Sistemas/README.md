@@ -109,3 +109,10 @@ Auditoria de Segurança Lógica
 ABNT NBR ISO/IEC 27002:2005.
 ```
 
+### PERGUNTA 4
+
+“O enfoque neste tipo de auditoria é identificar, verificar a avaliar as ameaças, vulnerabilidades e as medidas de proteção que possam ser utilizadas para assegurar: a integridade física dos equipamentos contra furtos/roubos e/ou danos no hardware, os suprimentos, as mídias, os recursos da corporação, proteção das pessoas no aspecto da segurança. Portanto, o enfoque nesse tipo de auditoria é verificar e avaliar a localidade e o ambiente com relação a acidentes e as proteções no aspecto a referentes a: furtos, roubos, acesso, integridade do hardware e das instalações, e das pessoas.”. Este conceito se refere a:  
+
+```Text
+ Auditoria de Segurança Física
+ ```
