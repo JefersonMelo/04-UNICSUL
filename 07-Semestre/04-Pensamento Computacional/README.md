@@ -1,6 +1,6 @@
 # Pensamento Computacional
 
-## Respostas aos Questionários Penisamento Computacional
+## Respostas aos Questionários Pensamento Computacional
 
 ### I - Atividade de Fixação
 
