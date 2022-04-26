@@ -116,3 +116,37 @@ ABNT NBR ISO/IEC 27002:2005.
 ```Text
  Auditoria de Segurança Física
  ```
+
+### IV - Atividade de Fixação
+
+#### PERGUNTA 1
+
+“As ________________________________________________ de auditoria, segundo Lyra e Imoniana, são programas desenvolvidos, sobretudo para execução de certas tarefas em uma circunstância definida. O desenvolvimento dos módulos específicos do software pode ser realizado pelo próprio auditor, pelos especialistas da empresa auditada ou por um terceiro contratado pelo auditor.”. Assinale alternativa que preenche, de forma correta, a lacuna.  
+
+```Text
+Ferramentas especializadas
+```
+
+#### PERGUNTA 2
+
+O texto a seguir “Existe uma gama enorme de instrumentos de auditoria colocadas no mercado, mas com poucas informações e criando dificuldades na hora da escolha da qual ferramenta seria ideal para a realização do trabalho. Os instrumentos usados pelo auditor para obtenção de seus objetivos, que já foram definidos quando do planejamento, são classificados como ferramentas da auditoria, independentemente do tipo de auditoria, interna ou externa. Essas ferramentas de auditoria são classificadas em três grupos: Ferramentas Generalistas; Ferramentas Especializadas; Ferramentas de Utilidade Geral.” Escolha, dentre as alternativas a seguir, a que melhor identifica o texto.  
+
+```Text
+Softwares de Auditoria
+```
+
+#### PERGUNTA 3
+
+“Portanto, podemos afirmar que a ________________________________________________________ consiste em avaliar os recursos empregados em Ambientes Informatizados e analisar os resultados obtidos. Logo, podemos afirmar que a metodologia para _____________________________________________________ objetiva aferir os dados e informações, que compõem os resultados do sistema, e as rotinas de processos do sistema. Basicamente, a metodologia é desenvolvida e realizada em duas fases: planejamento da auditoria dos sistemas e o levantamento dos sistemas sob auditoria.”. Escolha entre as alternativas seguintes a opção que preenche, de forma correta, as lacunas:  
+
+```Text
+Auditoria de Sistemas Computadorizados em Operação.
+```
+
+#### PERGUNTA 4
+
+“As ______________________________________________ são softwares que analisam amostras, processam, simulam, geram dados estatísticos, apontam duplicidade e executam mais funções de acordo com o que deseja o auditor.”. Escolha, dentre as alternativas a seguir, a que melhor identifica o texto.  
+
+```Text
+Ferramentas Generalistas
+```
