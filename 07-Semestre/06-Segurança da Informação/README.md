@@ -36,3 +36,86 @@ III - Adwares agem sobre links patrocinados apresentados em sites da internet; s
 I e II, apenas
 ```
 
+#### PERGUNTA 3
+
+Considerando que a engenharia social é uma técnica recorrentemente utilizada, leia atentamente as seguintes afirmativas:  
+
+I - Trata-se de manipulação para obter informações sigilosas de pessoas com o objetivo de cometer fraudes, de modo que esta técnica se restringe a uma boa conversa com o indivíduo-alvo.  
+
+II - Usa técnicas como criptografia e equipamentos específicos como firewall e proxy para conter ataques às redes de computadores.  
+
+III - Obtém-se informações não apenas da rotina da pessoa, mas também de tudo aquilo que a cerca. Com essas informações, pode-se planejar e colocar em prática o ataque, portanto, a engenharia social tem como foco o recurso mais fraco dentro daqueles usados em segurança de rede, o ser humano.  
+
+É VERDADEIRO o que se afirma em  
+
+```Text	
+I e III, apenas.
+```
+
+
+### II - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Leia atentamente as seguintes afirmativas:  
+
+I - Ameaças podem acontecer de forma lógica ou física, sendo que na forma lógica exploram as vulnerabilidades usando códigos, enquanto que na forma física as vulnerabilidades podem estar no fácil acesso aos equipamentos de Tecnologia da Informação (TI).  
+
+II - Os ataques podem ser realizados de maneira externa e interna.  
+
+III - Enquanto a ameaça é a ação que aproveita uma vulnerabilidade, ataque é a incidência da ameaça sobre a vulnerabilidade.  
+
+É VERDADEIRO o que se afirma em
+
+```Text
+I, II e III.
+```
+
+#### PERGUNTA 2
+
+Leia atentamente as seguintes afirmativas:
+
+I - Denial of Service (DoS) tem como objetivo negar um serviço aos usuários, portanto, este ataque é realizado em máquina configurada com algum tipo de serviço.  
+
+II - Distributed Denial of Service (DDoS) tem como característica sequestrar os dados dos usuários. Tal sequestro é realizado criptografando os dados da máquina do usuário que, para obtê-los de volta, deverá pagar uma recompensa.  
+
+III - O ataque MAC flooding tem como alvo os roteadores, cujo objetivo é parar o serviço que tal roteador fornece à rede.  
+
+É VERDADEIRO o que se afirma em  
+
+```Text
+I, apenas
+```
+
+#### PERGUNTA 3
+
+Leia atentamente as seguintes afirmativas:  
+
+I - Shoulder surfing consiste em enviar um e-mail com conteúdo malicioso para obter dados como login e senha.  
+
+II - Phishing consiste em atacar uma das portas do firewall para obter dados como login e senha.  
+
+III - Phishing manipula o ponto do comportamento humano relacionado à curiosidade. O ser humano é curioso por natureza e isto facilita este tipo de ataque.  
+
+É VERDADEIRO o que se afirma em  
+
+```Text
+III, apenas.
+```
+
+
+#### PERGUNTA 4
+
+Leia atentamente as seguintes afirmativas sobre a segurança da informação:  
+
+I - Pharming é um tipo de ataque que consiste em gerenciar phishing sob a sua propriedade, mantendo vários computadores infectados.  
+
+II - A confiança é significativamente explorada em engenharia social, portanto, uma das formas de se obter o que se deseja é trabalhar a confiança para depois ficar mais fácil aplicar o golpe. 
+
+III - Nigerian scan consiste em um e-mail com uma história sobre uma fortuna que poderá ser recebida, porém, mediante um depósito para dar entrada à documentação de herança.  
+
+É VERDADEIRO o que se afirma em  
+
+```Text
+I, II e III.
+```
