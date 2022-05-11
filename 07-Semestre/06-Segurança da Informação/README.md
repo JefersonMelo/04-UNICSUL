@@ -171,3 +171,50 @@ Qual firewall identifica o comportamento e qualquer problema em transações fei
 ```Text
 Firewall de estado total.
 ```
+
+
+### IV - Atividade de Fixação
+
+
+#### PERGUNTA 1
+
+Qual a desvantagem de usar chave simétrica?
+
+```Text
+Não garante a integridade das mensagens.
+```
+
+
+#### PERGUNTA 2
+
+“Se desejarmos enviar uma mensagem codificada, codificamos nossa mensagem usando sua chave pública. Dessa maneira, você pode decodificar a mensagem usando sua chave privada”. Esse procedimento garante:  
+
+```Text
+Integridade apenas
+```
+
+#### PERGUNTA 3
+
+Avalie as afirmativas a seguir, referentes à criptografia DES:  
+
+I - A mensagem é usada em conjunto com a chave no processo de criptografia.  
+
+II - A criptografia DES consiste em duas etapas, uma permuta que ocorre por duas vezes durante o processo de criptografia e outra que ocorre dezesseis vezes e consiste em embaralhar os dados com a chave.  
+
+III - O DES consiste numa criptografia de chave assimétrica. Por esse motivo, ele é usado até hoje na criptografia de documentos eletrônicos.  
+
+Está(ão) correta(s) a(s) assertiva(s).  
+
+
+```Text
+I e II
+```
+
+#### PERGUNTA 4
+
+A criptografia definida como DES usa técnica de
+
+```Text
+permuta e embaralhamento.
+```
+
