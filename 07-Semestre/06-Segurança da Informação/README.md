@@ -119,3 +119,55 @@ III - Nigerian scan consiste em um e-mail com uma história sobre uma fortuna qu
 ```Text
 I, II e III.
 ```
+
+### III - Atividade de Fixação
+
+#### PERGUNTA 1
+
+Embora existam vários tipos de firewall, esse foi, a princípio, criado para:  
+
+```Text
+não permitir que a rede da empresa seja acessada por pessoas externas a ela
+```
+
+#### PERGUNTA 2
+
+O firewall proxy tem como função principal examinar detalhes relacionadas a aplicações. Analise as afirmativas a seguir sobre esse:  
+
+I - O firewall proxy avalia os pacotes da camada de rede. Por esse motivo, ele é considerado um dos mais eficientes firewalls já utilizados.  
+
+II - O firewall proxy avalia os bits da camada física. Dessa forma, ele pode descartar os pacotes antes mesmo de entrarem na camada de enlace.  
+
+III - O firewall proxy foi desenvolvido para substituir o firewall de pacotes, pois ele disponibiliza muito mais recursos e ferramentas.  
+
+IV - O firewall proxy avalia as aplicações que estão especificadas na camada de aplicação do modelo de referência OSI.  
+
+É correto o que se afirma apenas em:  
+
+```Text
+IV - O firewall proxy avalia as aplicações que estão especificadas na camada de aplicação do modelo de referência OSI.
+```
+
+#### PERGUNTA 3
+
+Avalie as assertivas a seguir:  
+
+I - As configurações de firewall disponibilizadas pelo sistema operacional cliente do Windows são básicas e devem fazer parte das ferramentas usadas para aumentar a segurança.  
+
+II - O sistema operacional Linux apresenta o iptables como ferramenta de configuração de filtragem de pacotes; portanto, algumas regras, considerando os campos de cabeçalho dos pacotes podem ser consideradas na configuração.  
+
+III - Podemos criar muitos tipos de regras a serem avaliadas pelo firewall na filtragem de pacotes. As ações a serem executadas em um pacote são: Aceitar; Descartar; ou Rejeitar o pacote. Para executar quaisquer dessas ações pré-estabelecidas pelas regras, primeiramente, ele tomará como referência informações contidas no cabeçalho de qualquer pacote que passe por ele.  
+
+É correto o que se afirma apenas em:  
+
+```Text
+I, II e III.
+```
+
+#### PERGUNTA 4
+
+Qual firewall identifica o comportamento e qualquer problema em transações feitas por aplicativos com a finalidade de forjar endereço IP e aquisição de sessão?  
+
+```Text
+Firewall de estado total.
+```
