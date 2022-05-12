@@ -272,4 +272,37 @@ Menor custo.
 ```
 
 
+### VI - Atividade de Fixação
 
+
+#### PERGUNTA 1
+
+Qual dos itens abaixo é verdadeiro.  
+
+```Text
+É possível aplicar em configurações de servidores alguns itens da norma de segurança da informação
+```
+
+#### PERGUNTA 2
+
+Qual item abaixo não faz parte do ciclo PDCA?  
+
+```Text
+Criar
+```
+
+#### PERGUNTA 3
+
+O ciclo PDCA deve ser adotado em segurança da informação, isto se deve por quê?  
+
+```Text
+Para garantir a periodicidade, o ciclo no planejamento, fazer, verificar e agir.
+```
+
+####  PERGUNTA 4
+
+Quais dos itens abaixo pode ser considerado como verdadeiro.  
+
+```Text
+Todos os colaboradores e até o alto escalão da empresa deve estar envolvido na aplicação da política de segurança da empresa
+```
