@@ -218,3 +218,58 @@ A criptografia definida como DES usa técnica de
 permuta e embaralhamento.
 ```
 
+
+### V - Atividade de Fixação
+
+
+#### PERGUNTA 1
+
+O tunelamento foi criado com a função de oferecer segurança usando a criptografia. Para isso, alguns Protocolos de tunelamentos foram especificados para uso. Dentre eles, temos:  
+
+I - GRE – Generic Routing Protocol – Esse Protocolo é geralmente configurado nos roteadores de origem e roteadores de destino. Os pacotes que serão transmitidos são encapsulados em Protocolos, por exemplo, IP, que são encapsulados no GRE e transmitidos.  
+
+II - O serviço PPTP pode ser fornecido de duas formas: a primeira refere-se à conexão diretamente com um cliente PPTP e a segunda forma refere-se à conexão indiretamente por um servidor com PPTP por meio de um provedor de Internet, ambas as formas usando linha discada.  
+
+III - O Protocolo PPTP permite, além do Protocolo IP, os Protocolos Frame Relay e ATM. Por ser um Protocolo proprietário, ele só pode ser usado pelos provedores.  
+
+Está(ão) CORRETA(S) a(s) afirmativa(s), indique a alternativa mais completa:  
+
+```Text
+I e II.
+```
+
+#### PERGUNTA 2
+
+A VPN está cada vez mais sendo usada para fornecer acesso remoto, tendo como principal característica a segurança dos dados. O acesso pela Internet a tornou atrativa, pois requer menos custo com manutenção ou aluguel com equipamentos. Relacionado a esse tipo de conexão, é correto afirmar que:  
+
+I - Há duas formas de usar a VPN utilizando a Internet como meio. A primeira delas refere-se à interligação de duas LANs geograficamente distantes, usando como meio a Internet através de um tunelamento. Um dos lados, o que faz a requisição para entrar na Rede, usa um computador definido como cliente e o outro lado tem um servidor rodando o serviço de VPN. A segunda forma está em usar um provedor que ficará responsável de fornecer tal serviço.  
+
+II - O Tunelamento formado entre as duas máquinas é realizado por meio de mecanismos de criptografia, para evitar que outras pessoas consigam acessar o conteúdo que está sendo trocado entre os dois lados, e esse mecanismo deve ser fornecido pela máquina que está rodando o serviço VPN.  
+
+III - Embora muitas Empresas implementam VPN para dar acesso a funcionários para trabalhar em casa acessando a Rede da Empresa, ele pode acessá-la de qualquer lugar, basta que tenha acesso à Internet e esteja rodando um software que possibilite a conexão remota. Essa característica passa a ser uma vantagem extremamente importante, pois oferece mobilidade e flexibilidade para os funcionários que trabalham com vendas ou outras atividades em que não tenham de fixar pontos.  
+
+Está(ão) CORRETA(S) a(s) assertiva(s), indique a alternativa mais completa:  
+
+```Text
+I, II e III
+```
+
+#### PERGUNTA 3
+
+O cabeçalho de autenticação, que é parte da suíte de Protocolo IPSec, provê serviço de autenticação para o IP. Qual cabeçalho protege os dados de serem alterados durante a transmissão?
+
+```Text
+AH
+```
+
+
+#### PERGUNTA 4
+
+Qual a principal vantagem em usar uma VPN pela Internet?
+
+```Text
+Menor custo.
+```
+
+
+
