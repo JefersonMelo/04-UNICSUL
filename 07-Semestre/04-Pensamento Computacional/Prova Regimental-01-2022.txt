@@ -1,0 +1,286 @@
+Questão 1 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1667
+Falta de energia, o acúmulo de poeira, o aumento da umidade e de temperatura, etc. Está afirmativa no parágrafo anterior pertence a qual vulnerabilidade? Assinale a alternativa correta.
+
+Físicas
+
+
+Questão 2 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1519
+Devido à globalização, houve a evolução da tecnologia de informação (internet, extranet, intranet, etc.) e os sistemas computacionais deixaram de pertencer apenas ao microambiente (ambiente interno) e se expandiram para o macroambiente (ambiente externo). A forma encontrada para dinamizar esse ambiente foi através do uso de sistemas da informação e por conseguinte, a centralização de dados em repositórios exclusivos. Todavia, conjuntamente a eles, uma ameaça importante afetou todo esse ecossistema pelo mundo. Identifique nas alternativas abaixo a definição dessa ameaça e assinale-a.
+
+acesso não autorizado
+
+
+Questão 3 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1591
+Qual a utilidade de um plano de contingencia? Assinale a alternativa correta que define sua utilidade.
+
+o foco é corrigir erros e minimizar impactos
+
+
+Questão 4 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1616
+Diante do surgimento constante de novas tecnologias, o auditor deve estar sempre atualizado e à frente das inovações para que garanta uma auditoria sempre eficiente. Há um documento que materializa as estratégias da área de tecnologia da informação de tal forma que um auditor deve conhecer sua confecção dominar tecnicamente seus escritos. Estamos nos referindo a qual documento? Assinale a alternativa correta.
+
+PTI
+
+
+Questão 5 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1564
+Qual é a função principal de uma auditoria? Assinale a alternativa correta:
+
+Avaliar conflitos geracionais
+
+
+Questão 6 - AUDITORIA DE SISTEMAS (151)
+Código da questão: 1673
+Nas alternativas abaixo, você encontra várias definições de vulnerabilidades e técnicas que são utilizadas para explorá-las. Encontre a alternativa correta que define "Sniffing" e a assinale.
+
+
+Técnica de obter informações de um computador ou de uma rede de computadores sem autorização, com o objetivo de identificar dados, senhas, comportamentos do usuário.
+
+
+Questão 7 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 56305
+Os cientistas da computação se esforçam para encontrar os algoritmos mais eficazes e eficientes, ou seja, aqueles que resolvem um problema no tempo mais rápido, usando o mínimo de recursos (memória ou tempo) ou da maneira mais eficaz (obtendo o correto ou o mais próximo da resposta correta). Qual ferramenta apresentada na disciplina é capaz de criar algoritmos com a maxima facilidade
+
+Scratch
+
+
+Questão 8 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 12749
+Pode se afirmar que no Pensamento Computacional vale um conjunto de conceitos da Ciência da Computação. Entre tais conceitos, estão os conceitos de “Decomposição de Problema” e “Algoritmos e Procedimentos”. Porque esses dois conceitos são importantes no desenvolvimento do Pensamento Computacional?
+
+“Decomposição de Problema” e “Algoritmos e Procedimentos” são importantes no desenvolvimento do Pensamento Computacional pois ajudam no desenvolvimento da solução de um problema.
+
+
+Questão 9 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 51706
+Observe as afirmações a seguir.
+
+I.    O aprendizado de programação por meio de blocos visuais possibilita o desenvolvimento do Pensamento Computacional, pois por meio da programação temos contato com conceitos da Ciência da Computação - como a abstração e a decomposição - para resolução  de problemas.
+
+II.    O aprendizado através da Computação Desplugada consiste em uma abordagem que não se limita a utilização de computadores para desenvolver habilidades do Pensamento Computacional.
+
+III.   O Pensamento Computacional pode ser dado como uma habilidade apenas para os profissionais de computação.
+
+
+
+Assinale a alternativa que contém TODAS as informações corretas. 
+
+
+Somente as afirmações  I e III estão corretas.
+
+
+
+Questão 10 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 12190
+Pensamento Computacional possui dois termos chaves. As afirmações a seguir são a respeito dos termos chaves do Pensamento Computacional. Agora, observe as afirmações a seguir:
+
+I. Conceitos: São os conceitos da Ciência da Computação que servem como ferramentas de apoio para solucionar uma etapa específica ao longo do desenvolvimento da solução de um problema.
+II. Habilidades: Podemos alcançar e dominar as habilidades do Pensamento Computacional por meio da utilização dos conceitos da Ciência da Computação. 
+III. Conceitos e Habilidades são termos estritamente interligados. As habilidades são adquiridas a partir da utilização dos conceitos. 
+
+Assinale a alternativa que contém TODAS as informações corretas. 
+
+Somente I e II estão corretas
+
+Questão 11 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 12850
+Um computador é composto por vários tipos de memória. Todo programa é executado na memória principal, também chamada de memória RAM. Esta memória armazena dados através de endereço de memória. Como se fosse um sistema de cartas. Onde você mora em uma residência que possui um número e o carteiro vai entregar a correspondência no número da sua casa. Pois bem... vamos imagina que o computador precisa achar um dado que esteja em determinado endereço de memória. A memória é organizada por endereços ordenados. Vamos supor que a memória vai do endereço 0 ao 500. Partindo do principio que a memória esta ordenada, uma busca eficiente sempre olha o endereço central (ideia da busca binária que é uma forma de decompor o problema em pedaço menores). Se for o endereço procurado, a busca termina. Caso não seja, é verificado se o elemento endereço central é maior que o endereço procurado, se for maior, a busca ocorre pela metade da esquerda, caso não seja, a busca continua pela metade direita do vetor. Isso ocorre até quando o endereço certo, for encontrado.
+
+2
+
+
+Questão 12 - PENSAMENTO COMPUTACIONAL (2944)
+Código da questão: 56290
+O Pensamento Computacional pode ser definido como uma habilidade imprescindível para todas as pessoas e como as habilidades de ler, escrever e fazer cálculos, o Pensamento Computacional deve ser adicionado ao pensamento analítico de cada criança. Analise as afirmações a seguir.
+
+I. Para compreendermos melhor o conceito de Pensamento Computacional, precisamos considerar principalmente as ideias de: Problema Computacional e Algoritmo.
+
+II. Problema Computacional:   um problema que é especificado de forma suficientemente precisa, de modo que se possa tentar escrever um algoritmo para solucioná-lo.
+
+III. Algoritmo: um conjunto de instruções passo-a-passo para resolver um problema.
+
+Assinale a alternativa que contém TODAS as afirmações corretas.
+
+Somente as afirmações I, II e III estão corretas.
+
+
+Questão 13 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 4933
+A criptografia definida como RSA usa técnica de:
+
+Criptografia assimétrica
+
+
+Questão 14 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 4907
+Para tornar a transmissão da informação mais segura, usa-se algumas técnicas para dificultar que elas caiam em mãos alheias. Avalie algumas destas técnicas abaixo:
+
+I.A rede deve manter mecanismos que garantam que a informação só será conhecida pela pessoa para a qual ela foi transmitida, e nenhuma outra pessoa terá conhecimento desta informação. A este tipo de mecanismo damos o nome de disponibilidade.
+II.As mensagens trocadas entre emissor e receptor devem estar providas de mecanismos que garantam que elas não serão alteradas durante o seu trajeto. A este tipo de mecanismo damos o nome de integridade.
+III.A autenticidade consiste em verificar se a mensagem foi enviada pela pessoa que realmente ficou de enviar a mensagem.
+
+Está correto o que se afirma em:
+
+II e III.
+
+
+Questão 15 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 55996
+Qual é a característica do firewall de filtragem de quadros?
+
+Esse tipo de firewall tem como função analisar os quadros referentes à camada de enlace.
+
+
+Questão 16 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 55960
+Avalie as assertivas a seguir:
+
+I - As configurações de firewall disponibilizadas pelo sistema operacional cliente do Windows são básicas e devem fazer parte das ferramentas usadas para aumentar a segurança.
+
+II - O sistema operacional Linux apresenta o iptables como ferramenta de configuração de filtragem de pacotes; portanto, algumas regras, considerando os campos de cabeçalho dos pacotes podem ser consideradas na configuração.
+
+III - Podemos criar muitos tipos de regras a serem avaliadas pelo firewall na filtragem de pacotes. As ações a serem executadas em um pacote são: Aceitar; Descartar; ou Rejeitar o pacote. Para executar quaisquer dessas ações pré-estabelecidas pelas regras, primeiramente, ele tomará como referência informações contidas no cabeçalho de qualquer pacote que passe por ele.
+
+É correto o que se afirma apenas em:
+
+I, II e III
+
+
+Questão 17 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 4951
+A VPN está cada vez mais sendo usada para fornecer acesso remoto tendo como principal característica a segurança dos dados. O acesso pela Internet a tornou atrativa, pois requer menos custo com manutenção ou aluguel de equipamentos. Relacionado a este tipo de conexão, é correto afirmar que?
+
+I. Há duas formas de usar a VPN utilizando a Internet como meio. A primeira delas refere-se à interligação de duas LAN´s geograficamente distantes, usando como meio a Internet através de um tunelamento. Um dos lados, o que faz a requisição para entrar na rede, usa um computador definido como cliente, e o outro lado tem um servidor rodando o serviço de VPN. A segunda forma está em usar um provedor que ficará responsável de fornecer tal serviço;
+II. O tunelamento formado entre as duas máquinas é realizado através de mecanismos de criptografia para evitar que outras pessoas consigam acessar o conteúdo que está sendo trocado entre os dois lados, e este mecanismo deve ser fornecido pela máquina que está rodando o serviço VPN;
+III. Embora muitas empresas implementem VPN para dar acesso a funcionários para trabalhar em casa acessando a rede da empresa, ele pode acessá-la de qualquer lugar, basta que tenha acesso a Internet e esteja rodando um software que possibilite a conexão remota. Esta característica passa a ser uma vantagem extremamente importante, pois oferece mobilidade e flexibilidade para os funcionários que trabalham com vendas ou outras atividades onde os funcionários não tenham que fixar pontos.
+
+Está(ão) correta(s) a(s) assertiva(s):
+
+I, II e III.
+
+
+Questão 18 - SEGURANÇA DA INFORMAÇÃO (2662)
+Código da questão: 4935
+A cifra de Cesar baseava-se em:
+
+Uma chave.
+
+
+Questão 19 - TESTES DE SOFTWARE (3625)
+Código da questão: 74737
+Na fase de planejamento de testes, uma vez que entendemos os requisitos, identificamos e elaboramos os casos de teste que cobrirão todos os requisitos contidos na documentação do projeto. Além disso, os casos de teste nos ajudam a seguir uma sequência para testar as funcionalidades e os vários cenários de teste, de forma a cobrir todo o aplicativo e verificar os resultados esperados. A entrega mais importante gerada nesta etapa é o plano de teste, que é um documento que descreve a motivação e os detalhes das atividades de teste para um determinado projeto. Podemos resumir esta etapa nas seguintes fases:
+
+I. Preparar a documentação do plano de teste;
+II. Fazer uma estimativa de tempo e esforços;
+III. Identificar os requisitos de treinamento;
+IV. Coletar prioridades.
+
+Após a leitura do trecho acima, é correto o que se afirma em:
+
+I, II, III e IV.
+
+
+Questão 20 - TESTES DE SOFTWARE (3625)
+Código da questão: 74739
+O teste deve ser repetível. Não faz sentido automatizar um teste que só pode ser executado uma vez. Um teste repetível possuí algumas etapas, dentre elas:
+
+I. Configuração do teste, incluindo dados e ambiente;
+II. Execução da função e medição do resultado;
+III. Limpeza dos dados e do ambiente.
+
+Após a leitura do trecho acima, é correto o que se afirma em:
+
+Apenas I e II.
+
+
+Questão 21 - TESTES DE SOFTWARE (3625)
+Código da questão: 74749
+Em qualquer aplicação que resolve problemas do mundo real, ter problemas em seus testes de unidade é a coisa menos desejável. Os bons testes escritos são ativos, enquanto os testes mal escritos são um fardo para a sua aplicação.
+
+Ao escrever testes de unidade, os desenvolvedores tentam seguir o princípio FIRST tanto quanto possível, o qual é uma combinação de vários princípios (RAHMAN, 2019). Sobre principios de first, analise os itens abaixo:
+
+I. Fast(rápido);
+II. Independent(Independente);
+III. Repeatable(Repetível);
+IV. Self-Validating (auto validação);
+V. Timely (Imediatamente e completo).
+Após a leitura do trecho acima, é correto o que se afirma em:
+
+I, II, III, IV e V.
+
+Questão 22 - TESTES DE SOFTWARE (3625)
+Código da questão: 74750
+Suponha que um código tenha uma estrutura if ... else. A cobertura do código será de 100% se a lógica implementada sob if e else for coberta (ou atravessada) pelo código de teste. Por outro lado, a cobertura será de 50% se a lógica sob if (ou else) for coberta pelo código de teste. Código não testado pode resultar em problemas de qualidade. Portanto, é importante maximizar a cobertura do código com 100%, considerado como a cobertura ideal.
+
+Baseado nisso temos que considerar:
+
+I. Se os testes cobrirem todas as chamadas de função em código, a cobertura da função é considerada 100%;
+II. Da mesma forma, se todas as ramificações no código, ou seja, todas as condições if - else forem testadas com todas as entradas possíveis, então a cobertura da ramificação é considerada 100%;
+III. Se todas as instruções de loop no código forem executadas, a cobertura de loop e a cobertura de instrução serão 100%, respectivamente.
+
+É correto o que se afirma em:
+
+I, II e III.
+
+
+Questão 23 - TESTES DE SOFTWARE (3625)
+Código da questão: 74752
+O objetivo principal do teste de sanidade é determinar se as alterações ou a funcionalidade proposta estão funcionando conforme o esperado. Se o teste de sanidade falhar, a construção é rejeitada pela equipe de teste para economizar tempo e dinheiro. É executado somente após a construção ter passado no teste de fumaça e ser aceita pela equipe de garantia de qualidade para testes adicionais. O foco da equipe durante este processo de teste é validar a funcionalidade do aplicativo e não o teste detalhado. Nesse ponto, é importante adicionar que o teste de sanidade geralmente é feito no final de um ciclo de teste de software em que a construção do software é estável. Por esse motivo, essa forma de teste costuma ser improvisada. É executado para verificar se a funcionalidade foi corrigida onde havia erros anteriores. Portanto, não é uma forma ampla de teste que requer documentação intensiva. Porém, possui algumas etapas bem definidas, são elas:
+
+
+
+I. Identificação;
+II. Avaliação;
+III. Teste;
+
+Após a leitura do trecho acima,  podemos afirmar que são etapas do teste de sanidade:
+
+I, II e III.
+
+
+Questão 24 - TESTES DE SOFTWARE (3625)
+Código da questão: 74736
+Na etapa de análise de requisitos, seus valiosos testadores de software precisam visualizar, estudar e analisar as especificações e requisitos disponíveis. Certos requisitos produzem resultados alimentando-os com dados de entrada. Esses requisitos são requisitos testáveis. Os testadores estudam os requisitos funcionais e não funcionais. Depois disso, eles precisam escolher os requisitos testáveis. Depois de reunir e entender os requisitos, sabemos qual é o comportamento esperado e o que precisamos testar, e quando dizemos que encontramos o defeito. Podemos resumir esta etapa em algumas fases:
+
+I. Compreenda a saída esperada do produto;
+II. Identifique quaisquer lacunas nas especificações;
+III. Colete prioridades;
+IV. Realize verificações de viabilidade de automação.
+
+Após a leitura do trecho acima, é correto o que se afirma em:
+
+I, II, III e IV.
+
+
+Questão 25 - CONHECIMENTOS GERAIS
+Código da questão: 79552
+O metaverso é uma fusão perfeita de realidade física, aumentada e virtual. É um mundo virtual público que pode ser acessado pela internet. Cria uma experiência de "mundo virtual" simulando emoções e gestos humanos. Abrange toda a estrutura social e econômica que existe nos mundos real e virtual. Avatares, conteúdos e bens podem viajar livremente. Além disso, você pode visitar um café simulado e se encontrar com seus amigos lá, ou você pode viajar para uma galeria de arte virtual para ver uma exposição de arte digital. Metaversos, por outro lado, não são apenas para jogadores. Alguns metaversos permitem que você se encontre, colabore, compre bens e serviços, e participe de atividades como eventos ao vivo, shows ao vivo, entre outros. Em suma, é o futuro que chegou. Assinale a alternativa correta que responde onde foi utilizado o termo Metaverso pela primeira vez? Assinale a alternativa correta:
+
+Apareceu pela primeira vez em "Snow Crash", livro de ficção científica escrito por Neal Stephenson em 1992.
+
+
+Questão 26 - CONHECIMENTOS GERAIS
+Código da questão: 79563
+Inteligência artificial é a inteligência demonstrada por máquinas ao executar tarefas complexas associadas a seres inteligentes, além de também ser um campo de estudo acadêmico. IA visa simular um comportamento humano. Assim, podemos afirmar que: 
+
+I. De alguma forma, as técnicas de IA procuram implementar e aprimorar características relacionadas com a inteligência humana.
+
+II. IA tenta imitar visão, fala, manipular objetos, armazenar “conhecimento”, aprendizado, raciocínio do ser humano.
+
+III. IA é uma técnica que não pode ser aplicada na computação.
+
+
+
+É correto o que se afirma em:
+
+Apenas, I e II.
+
+
+
+
+
+
