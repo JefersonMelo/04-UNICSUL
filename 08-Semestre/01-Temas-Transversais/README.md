@@ -54,8 +54,11 @@ tanto a comunidade formada por qualquer dos pais e seus descendentes quanto a un
 
 Analise as afirmações quanto a sua veracidade (verdadeiro ou falso).  
 I - O som dos tambores africanos também pode ser ouvido em outras manifestações musicais brasileiras como o Carnaval, o Maracatu e a Congada.  
+
 II - Pratos como o vatapá, acarajé, caruru, mungunzá, sarapatel, baba de moça, cocada, bala de coco e muitos outros foram criados entre os escravos.  
+
 III - No campo religioso, a cultura africana gestou tradições religiosas diversas, a mais tradicional delas é o candomblé.  
+
 As afirmações I, II e III são, respectivamente:  
 
 ```Text
@@ -66,8 +69,11 @@ V, V, V
 
 Sobre a Lei 7716 de 5 de janeiro de 1989, analise as assertivas a seguir quanto a sua veracidade (Verdadeiro e Falso).  
 I – Determina que o Racismo seja tratar alguém de forma diferente e inferior por causa de cor, raça, etnia, religião ou procedência nacional.  
+
 II - Determina que o Racismo não é crime.  
+
 III – Uma das práticas consideradas racismo pela lei é: Negar ou obstar emprego em empresa privada.  
+
 As assertivas I, II e III são, respectivamente:  
 
 ```Text
@@ -123,9 +129,13 @@ Pacto Global
 
 Analise as assertivas abaixo quanto a sua veracidade (verdadeiro ou falso) em relação aos temas básicos das "Metas do Milênio" aprovada em 2001 pelas Nações Unidas, cujo objetivo é reforçar o compromisso dos pactos celebrados anteriormente entre as Nações.  
 I. Erradicar a extrema pobreza e a fome.  
+
 II. Atingir o ensino básico fundamental  
+
 III. Promover igualdade entre os sexos e autonomia das mulheres.  
+
 IV. Abolir o trabalho forçado.  
+
 As assertivas I, II, III e IV são respectivamente:  
 
 ```Text
@@ -157,4 +167,73 @@ A Biomassa é considerada um recurso natural:
 
 ```Text
 Renovável
+```
+
+### IV Prevenção ao uso indevido de drogas e álcool
+
+#### PERGUNTA 1
+
+Analise as assertivas a seguir:  
+I. A dependência de drogas é um processo de difícil apreensão, em que a experimentação ou uso episódico pode adquirir um caráter recreativo, social e habitual, passando ao uso abusivo e à perda da liberdade de escolha quanto ao uso, já então dependente.  
+
+II. Os critérios diagnósticos devem ser avaliados em sua possível ocorrência nos últimos 30 dias, na vida do indivíduo, conforme preconizado, tanto pela Organização Mundial de Saúde quanto pela Associação Médica Americana.  
+
+III. Um dos critérios para o diagnóstico da dependência de drogas é a dificuldade de controlar o próprio consumo (o indivíduo sempre acaba consumindo mais do que desejava inicialmente). Outro critério é a tolerância (aumento da quantidade para obtenção dos mesmos efeitos).  
+
+Assinale a seguir a alternativa correta:  
+
+```Text
+Estão corretas as alternativas I e III
+```
+
+#### PERGUNTA 2
+
+Assinale a seguir a alternativa **INCORRETA**:  
+
+```Text
+Os estudiosos das ciências sociais, investigando o processo histórico de constituição do ser social, concluíram que nunca houve sociedades humanas sem dependência de drogas.
+```
+
+#### PERGUNTA 3
+
+Analise as afirmações a seguir:  
+
+I. No Brasil, as substâncias psicoativas mais utilizadas pela população são as drogas ilegais, especialmente o crack e a maconha, que produzem altos índices de violência urbana.  
+
+II. A dependência de drogas se configura em nosso país como um grave problema de segurança pública, que demanda políticas repressivas mais eficazes na guerra às drogas.  
+
+III. As atuais políticas brasileiras sobre drogas estabeleceram a responsabilidade exclusiva do Estado na oferta de serviços de tratamento e reinserção social de dependentes de drogas.  
+
+Assinale a alternativa correta:  
+
+```Text
+Todas as assertivas são incorretas.
+```
+
+#### PERGUNTA 4
+
+O que significa “contextualizar” um fenômeno?
+
+```Text
+Todas as assertivas são incorretas.
+```
+
+#### PERGUNTA 5
+
+Preencha com "V" (verdadeira) ou "F" (falsa) cada uma das assertivas a seguir, relativas ao conceito de prevenção e seus desdobramentos em termos de políticas sobre drogas:  
+
+I. ( ) A prevenção secundária é aquela voltada especificamente aos usuários de substâncias psicoativas, com o objetivo de evitar efeitos negativos do uso (dentre estes, a própria dependência de drogas).  
+
+II. ( ) A prevenção primária tem como objetivo evitar os problemas decorrentes do uso abusivo ou dependente de drogas, com medidas voltadas diretamente a este segmento da população.  
+
+III. ( ) A prevenção terciária procura reduzir os danos da dependência de drogas, sugerindo manejos menos arriscados e atitudes mais saudáveis, e oferecendo opções de tratamento e reinserção social.  
+
+IV. ( ) Políticas de prevenção mais eficazes tendem a operar de forma multifatorial e enraizada nos vários domínios da vida social: o individual, o familiar, o escolar, comunitário, empresarial, político, de saúde e outros.  
+
+V. ( ) Nos domínios comunitário, escolar e empresarial, localizam-se os fatores de risco da dependência de drogas, enquanto nos domínios familiar e de saúde encontramos os fatores de proteção.  
+
+Para concluir, assinale a seguir a alternativa que indica a sequência correta:  
+
+```Text
+V, F, V, V, F
 ```
