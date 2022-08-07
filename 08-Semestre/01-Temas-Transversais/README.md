@@ -100,3 +100,61 @@ Este texto pertence:
 ```Text
 ao código penal brasileiro
 ```
+
+### III A questão ambiental e a sustentabilidade
+
+#### PERGUNTA 1
+
+A Norma “OSHAS 18001”  
+
+```Text
+trata de um sistema de gestão de segurança e da saúde ocupacional. É um compromisso de redução dos riscos decorrentes do trabalho, recaindo em um processo dinâmico de melhoria contínua
+```
+
+#### PERGUNTA 2
+
+Dentre os princípios diretivos que impulsionaram a criação de normas e outras ferramentas e instrumentos de gestão para as práticas de gestão da responsabilidade social, qual incluiu questões que tratam de direitos humanos, direitos do trabalho, Proteção Ambiental e Corrupção?
+
+```Text
+Pacto Global
+```
+
+#### PERGUNTA 3
+
+Analise as assertivas abaixo quanto a sua veracidade (verdadeiro ou falso) em relação aos temas básicos das "Metas do Milênio" aprovada em 2001 pelas Nações Unidas, cujo objetivo é reforçar o compromisso dos pactos celebrados anteriormente entre as Nações.  
+I. Erradicar a extrema pobreza e a fome.  
+II. Atingir o ensino básico fundamental  
+III. Promover igualdade entre os sexos e autonomia das mulheres.  
+IV. Abolir o trabalho forçado.  
+As assertivas I, II, III e IV são respectivamente:  
+
+```Text
+V, V, V, F
+```
+
+#### PERGUNTA 4
+
+Faça a associação dos Poluentes do ar da Coluna "A" com o respectivo efeito/consequência da Coluna "B""B".  
+
+**Coluna A**  
+I. Hidrocarbonetos  
+II. Dióxido de Carbono  
+III. Óxidos de Enxofre  
+
+**Coluna B**  
+( ) É responsável pelo efeito estufa e consequentemente pelo aquecimento global.  
+( ) São cancerígenos e mutagênicos.  
+( ) Origina a chuva ácida.  
+A sequência correta dessa associação é:  
+
+```Text
+(II), (I), (III)
+```
+
+#### PERGUNTA 5
+
+A Biomassa é considerada um recurso natural:
+
+```Text
+Renovável
+```
