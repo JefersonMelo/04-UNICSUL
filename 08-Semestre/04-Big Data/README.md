@@ -41,3 +41,44 @@ III -É verdade que a afirmativa I está relacionada à variedade de dados, enqu
 ```Text
 I - Verdadeiro, II – Verdadeiro, III – Verdadeiro.
 ```
+
+### II - Fontes de Dados e Exemplos de Big Data
+
+#### PERGUNTA 1
+
+Analise as afirmativas e selecione a alternativa correta:  
+
+I - Os dados que são produzidos possuem uma vida útil maior e tem aumentado;  
+
+II – A validação dos dados oriundos de diversos sistemas, mídias ou redes sociais, trazem uma complexidade grande para a escolha, transformação, processamento, análise e validação dos resultados e informações geradas.  
+
+III – As empresas que investem em análise de dados como um ativo para a tomada de decisão são mais bem sucedidas.  
+
+```Text
+I – Falso, II- Verdadeiro, III – Verdadeiro;
+```
+
+#### PERGUNTA 2
+
+Assinale a alternativa que não traz um exemplo de dado não estruturado.
+
+```Text
+Estrutura de linhas e colunas (ER)
+```
+
+#### PERGUNTA 3
+
+Assinale alternativa traz a correta definição para o V de veracidade no contexto de Big Data.  
+
+```Text
+Está relacionado à confiabilidade dos dados
+```
+
+#### PERGUNTA 4
+
+Assinale a alternativa que não condiz com a característica de veracidade dos dados no contexto de Big Data.
+
+```Text
+os dados que são produzidos possuem uma vida útil muito curta , por isso as organizações devem ser capazes de analisa-los quase em tempo real, se eles esperam encontrar ideias e oportunidades nestes dados.
+```
+
