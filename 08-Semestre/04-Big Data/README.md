@@ -170,4 +170,3 @@ Selecione a alternativa a qual a definição se refere.
 ```Text
 Hadoop
 ```
-
