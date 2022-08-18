@@ -121,3 +121,53 @@ Assinale a alternativa que não traz um benefício apontado da computação em n
 Baixa disponibilidade
 ```
 
+### IV - Big e IoT Projeto Hadoop e Subprojetos
+
+#### PERGUNTA 1
+
+Analise a definição: é um sistema de arquivos projetado para armazenar arquivos extremamente grandes com um padrão de fluxo de acesso, executar sob clusters de computadores pessoais ou plataformas de hardware comuns (WHITE, 2015).  
+
+Selecione a alternativa a qual a definição se refere.  
+
+```Text
+HDFS
+```
+
+#### PERGUNTA 2
+
+Analise as afirmativas com relação à IoT e assinale a alternativa correta:  
+
+I - A IoT envolve uma grande quantidade de nós.  
+
+II – A utilização de IoT produzirá um pequeno volume de dados.  
+
+III - O As informações geradas pelos diferentes dispositivos deverão ser processadas ou guardadas para um posterior processamento.  
+
+```Text
+I – Verdadeiro, II – Verdadeiro, III - Verdadeiro.
+```
+
+#### PERGUNTA 3
+
+Analise as afirmativas quanto ao ecossistema de IoT e assinale a alternativa correta:
+
+I – esse provedor possui o papel central no ecossitema de IoT. Ele possui as seguintes funções principais: 1. Acesso e integração de recursos providos por outros provedores; 2. Suporte e controle das capacidades de infraestrutura de IoT; 3. Oferecer capacidades de IoT, incluindo capacidades de rede e exposição de recursos para outros provedores;  
+
+II – Esse provedor é responsável por fornecer os dados brutos ou o conteúdo para o provedor de rede e provedor de aplicação, de acordo com a lógica de negócio.  
+
+III – esse provedor provê capacidades de integração e interfaces abertas. Diferentes plataformas podem prover diferentes capacidades para provedores de aplicação. Capacidades de plataforma incluem tipicamente capacidades de integração, como por exemplo, armazenamento de dados, processamento de dados ou gerenciamento de dispositivos e suporte para diferentes tipos de aplicações de IoT.  
+
+```Text
+I – network provider, II – device provider, III – platform provider.
+```
+
+#### PERGUNTA 4
+
+Analise a definição: é o termo usado para se referir a uma família de projetos relacionados, que compõe a infraestrutura para computação distribuída e de larga escala de processamento, que usa o conceito de Big Data.  
+
+Selecione a alternativa a qual a definição se refere.  
+
+```Text
+Hadoop
+```
+
