@@ -82,3 +82,42 @@ Assinale a alternativa que não condiz com a característica de veracidade dos d
 os dados que são produzidos possuem uma vida útil muito curta , por isso as organizações devem ser capazes de analisa-los quase em tempo real, se eles esperam encontrar ideias e oportunidades nestes dados.
 ```
 
+### III - Big Data com Computação em Nuvem
+
+#### PERGUNTA 1
+
+Analise a afirmativa e assinale a alternativa que traz a dada característica presente na computação em nuvem:  
+
+I – Permite aos provedores de modo a melhorar a utilização de recursos e à prestação de serviços de forma flexível, recuperar recursos de computação, que estão reunidos para servir a múltiplos clientes, usando um modelo multi-tenant, com diferentes recursos físicos e virtuais atribuídas e realocados dinamicamente de acordo com a demanda do cliente. Há um senso de independência local em que o cliente geralmente não tem controle ou conhecimento sobre a localização exata dos recursos disponibilizados, mas pode ser capaz de especificar o local em um nível mais alto de abstração (por exemplo, país, estado, ou datacenter).
+
+Exemplos de recursos incluem armazenamento, processamento, memória e largura de banda de rede.  
+
+```Text
+Pooling de Recursos
+```
+
+#### PERGUNTA 2
+
+Assinale a alternativa que não traz uma característica da computação em nuvem.
+
+```Text
+Serviço não mensurado
+```
+
+#### PERGUNTA 3
+
+Analise a afirmativa e assinale a alternativa que traz a dada característica presente na computação em nuvem:
+I – Os consumidores usam um portal de auto-serviço baseado na web para visualizar um catálogo de serviços e solicitar serviços em nuvem. Isso permite aos consumidores o provisionamento de serviços em nuvem de uma forma simples e flexível e reduz o tempo necessário implantação de novos ou recursos de TI adicionais.
+
+```Text
+On-demand Self-service
+```
+
+#### PERGUNTA 4
+
+Assinale a alternativa que não traz um benefício apontado da computação em nuvem.
+
+```Text
+Baixa disponibilidade
+```
+
