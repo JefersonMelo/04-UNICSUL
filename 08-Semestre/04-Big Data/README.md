@@ -170,3 +170,71 @@ Selecione a alternativa a qual a definição se refere.
 ```Text
 Hadoop
 ```
+
+### V - Projetos Importantes do Hadoop Instalação e Execução
+
+#### PERGUNTA 1
+
+Analise as afirmativas:
+
+I. O Resilient Distributed Datasets (RDD) é o conceito central da plataforma Spark. Foi desenvolvido para suportar o armazenamento de dados na memória e distribuído ou em um cluster, que implementa sua tolerância a falhas, devido, em parte, ao seu rastreamento de dados brutos ou processamentos.;  
+
+II. O RDD é uma funcionalidade permite que usuários da plataforma ou software R utilizem funções ou funcionalidades Spark de maneira mais usual.;  
+
+III. Spark Streaming aproveita a capacidade de processamento rápido da Spark Core para executar os processamentos. Permite a execução e transformações RDD (Solids Distributed Datasets) nesses pedações menores de dados e lotes de processamento.;  
+
+Selecione a correta alternativa quanto às afirmativas:  
+
+```Text
+I – correta, II – incorreta e III - correta.
+```
+
+#### PERGUNTA 2
+
+Analise as afirmativas:
+
+I. O MapReduce com Hadoop tradicional é em torno de 100 vezes mais rápido do que o processamento com o Spark;  
+
+II. O Spark permite um desempenho em torno de 100 vezes mais rápido que o MapReduce com Hadoop tradicional.;  
+
+III. Como característica principal o Spark otimiza os processos executados através do Hadoop MapReduce em memória;  
+
+Selecione a correta alternativa quanto às afirmativas:  
+
+```Text
+I – incorreta, II – correta e III - correta.
+```
+
+#### ERGUNTA 3
+
+Analise o comando: ***hadoop fs -copyFromLocal C50 /***
+
+Analise as afirmativas quanto ao comando:  
+
+I. -copyFromLocal serve para copiar algo para o HDFS;  
+
+II. C50 é a pasta ou arquivo de origem a ser copiado;  
+
+III. / serve para formatar a pasta de destino;  
+
+Selecione a correta alternativa quanto às afirmativas:  
+
+```Text
+I – correta, II – correta e III - incorreta.
+```
+
+#### PERGUNTA 4
+
+Analise as afirmativas:
+
+I. O Spark Core é a plataforma principal de execução que possibilita é base para todas as outras funcionalidades. Ela fornece a execução em memória e faz referência a conjuntos de dados em sistemas de armazenamento externos e distribuídos;  
+
+II. O framework Spark necessita, para sua execução básica, da linguagem Java, a linguagem Scala e a linguagem Python instaladas no sistema operacional;  
+
+III. MLlib é uma biblioteca de aprendizagem por máquina distribuída que roda sobre a arquitetura de Spark baseada em memória distribuída;  
+
+Selecione a correta alternativa quanto às afirmativas:  
+
+```Text
+I – correta, II – correta e III - correta.
+```
