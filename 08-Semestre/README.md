@@ -12,4 +12,4 @@
 
 ## [VI - Qualidade de Software](https://github.com/JefersonMelo/04-UNICSUL/tree/master/08-Semestre/06-Qualidade-de-Software)
 
-## [VII - Projeto Integrado Transdisciplinar II](https://github.com/JefersonMelo/Projeto_Integrador_Coffee_Gourmet#projeto-integrador)
+## [VII - Projeto Integrador Transdisciplinar II](https://github.com/JefersonMelo/Projeto_Integrador_Coffee_Gourmet#projeto-integrador)
